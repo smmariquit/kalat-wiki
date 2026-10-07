@@ -61,8 +61,12 @@ updated: 2026-10-08
 
 ## Saan galing
 
+## Paano kumalat
+
 ## Halimbawa
 ```
+
+`Paano kumalat` is optional. Use it only when a source says how the meme spread: which platform picked it up, when it trended, who remixed it, how the meaning changed. No source, no section. Never pad it.
 
 `Halimbawa` is one to three short example lines in a blockquote, the way people would actually post them. Put a blank `>` line between examples, otherwise they render as one line:
 

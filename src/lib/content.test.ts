@@ -52,10 +52,13 @@ test('no banned words in entry text', () => {
   assert.deepEqual(bad, []);
 });
 
-test('body has the three sections', () => {
+test('body has the sections, in order', () => {
+  // "Paano kumalat" is optional; everything else is required.
+  const ORDER = ["Ano 'to", 'Saan galing', 'Paano kumalat', 'Halimbawa'];
   const bad = files.filter((f) => {
-    const { body } = split(f);
-    return !(/^## Ano 'to$/m.test(body) && /^## Saan galing$/m.test(body) && /^## Halimbawa$/m.test(body));
+    const heads = [...split(f).body.matchAll(/^## (.+)$/gm)].map((m) => m[1].trim());
+    const expected = ORDER.filter((h) => h !== 'Paano kumalat' || heads.includes(h));
+    return heads.join('|') !== expected.join('|');
   });
   assert.deepEqual(bad, []);
 });
