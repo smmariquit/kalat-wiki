@@ -3,7 +3,7 @@ title: G
 kind: slang
 summary: Short for "game." Ibig sabihin ready o sasama ka. "G ka?" means "sasama ka ba?"
 status: researching
-aliases: [g, geym, game, g ka?, g na]
+aliases: [g, geym, game, "g ka?", g na]
 sources:
   - label: Wiktionary, "geym"
     url: https://en.wiktionary.org/wiki/geym

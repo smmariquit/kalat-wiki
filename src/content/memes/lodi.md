@@ -3,7 +3,7 @@ title: Lodi
 kind: slang
 summary: Baliktad ng "idol." Tawag sa taong hinahangaan mo, o pang-asar sa tropa na may achievement.
 status: confirmed
-aliases: [lods, lodicakes, lodi ko]
+aliases: [lods, lodi ko]
 sources:
   - label: PEP.ph, Joey de Leon on lodi, werpa, petmalu (2017)
     url: https://www.pep.ph/lifestyle/lifestyle/36355/joey-de-leon-on-lodi-werpa-petmalu-and-the-resurgence-of-reverse-slang

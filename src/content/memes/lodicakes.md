@@ -3,7 +3,7 @@ title: "Lodicakes"
 kind: slang
 summary: "Mas malambing na version ng 'lodi,' na 'idol' na binaliktad."
 status: confirmed
-aliases: ["lodi", "lods"]
+aliases: ["lods"]
 sources:
   - label: "Wiktionary, lodicakes"
     url: https://en.wiktionary.org/wiki/lodicakes#Tagalog

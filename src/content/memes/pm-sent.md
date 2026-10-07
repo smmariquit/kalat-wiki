@@ -3,7 +3,7 @@ title: PM Sent
 kind: slang
 summary: Sagot ng seller sa "hm" para sa private message na lang ibigay ang presyo.
 status: researching
-aliases: [pm is the key, pmed, check pm, pm na lang]
+aliases: [pmed, check pm, pm na lang]
 sources:
   - label: ABS-CBN News, 'PM is the key' no more as DTI tightens price tag rule on e-commerce
     url: https://www.abs-cbn.com/business/05/04/22/pm-sent-dti-tightens-price-tag-rule-on-e-commerce
