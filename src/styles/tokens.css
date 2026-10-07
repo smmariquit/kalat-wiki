@@ -1,0 +1,71 @@
+/* Hallmark · macrostructure: Ecosystem Index · tone: playful zine · anchor hue: riso pink (0)
+ * theme: Riso · nav: N7 Brutal slab · footer: Ft4 Dense typographic · enrichment: none
+ * axes: light paper / risograph-bold display / warm accent
+ */
+
+:root {
+  --font-display: 'Bricolage Grotesque Variable', 'Arial Narrow', sans-serif;
+  --font-body: 'Geist Variable', ui-sans-serif, sans-serif;
+
+  /* Paper and ink, light */
+  --color-paper: oklch(96.5% 0.018 85);
+  --color-paper-2: oklch(93% 0.026 85);
+  --color-ink: oklch(24% 0.035 265);
+  --color-ink-2: oklch(45% 0.03 265);
+  --color-rule: oklch(24% 0.035 265 / 0.18);
+  /* Riso fluorescent pink: blocks and highlights only, ink text sits on it */
+  --color-accent: oklch(72% 0.19 0);
+  /* Darker pink for text links (>= 4.5:1 on paper) */
+  --color-accent-text: oklch(50% 0.2 5);
+  /* Riso blue: misregistration shadow on the wordmark only */
+  --color-riso-blue: oklch(58% 0.16 250);
+  --color-warn: oklch(88% 0.1 90);
+  /* Text on pink blocks stays dark in both modes */
+  --color-on-accent: oklch(24% 0.035 265);
+  --color-focus: oklch(50% 0.2 5);
+
+  --text-xs: 0.8rem;
+  --text-sm: 0.9rem;
+  --text-base: 1.0625rem;
+  --text-lg: 1.33rem;
+  --text-xl: 1.66rem;
+  --text-2xl: 2.08rem;
+  --text-display-s: clamp(2.4rem, 8vw, 4.2rem);
+  --text-display: clamp(2.8rem, 11vw, 6.5rem);
+
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+  --space-3xl: 4.5rem;
+
+  --page-gutter: clamp(1rem, 4vw, 2.5rem);
+  --page-max: 72rem;
+  --measure: 65ch;
+  --rule-heavy: 3px solid var(--color-ink);
+  --rule-hair: 1px solid var(--color-rule);
+  --radius: 0;
+
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --ease-in: cubic-bezier(0.5, 0, 0.75, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast: 120ms;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-paper: oklch(19% 0.025 265);
+    --color-paper-2: oklch(24% 0.03 265);
+    --color-ink: oklch(94% 0.02 85);
+    --color-ink-2: oklch(76% 0.02 85);
+    --color-rule: oklch(94% 0.02 85 / 0.2);
+    --color-accent: oklch(72% 0.19 0);
+    --color-accent-text: oklch(80% 0.14 0);
+    --color-riso-blue: oklch(62% 0.16 250);
+    --color-warn: oklch(40% 0.08 90);
+    --color-focus: oklch(80% 0.14 0);
+  }
+}

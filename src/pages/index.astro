@@ -1,0 +1,171 @@
+---
+import Base from '../layouts/Base.astro';
+import Search from '../components/Search.astro';
+import CardGrid from '../components/CardGrid.astro';
+import { allEntries, dailyPick, tagCounts, KIND_LABEL } from '../lib/entries';
+import { KINDS } from '../content.config';
+
+const entries = await allEntries();
+const picks = dailyPick(entries, 6);
+const byYear = entries
+  .filter((e) => e.data.originYear)
+  .sort((a, b) => b.data.originYear! - a.data.originYear!);
+const newest = byYear.slice(0, 6);
+const oldSchool = byYear.slice(-6).reverse();
+const tags = tagCounts(entries).slice(0, 24);
+const kindCount = (k: string) => entries.filter((e) => e.data.kind === k).length;
+---
+
+<Base>
+  <section class="intro">
+    <h1>Ano ibig sabihin nyan?</h1>
+    <p class="lede">
+      Kalat explains Pinoy memes, slang, at mga linya na hindi mo na maalis sa utak mo. Saan galing,
+      ano ibig sabihin, at paano gamitin. {entries.length} entries so far, may source lahat.
+    </p>
+    <Search />
+  </section>
+
+  <section aria-labelledby="picks">
+    <div class="rail-head">
+      <h2 id="picks">Pick ng araw</h2>
+      <a href="/a-z/">Lahat ng entry →</a>
+    </div>
+    <CardGrid entries={picks} />
+  </section>
+
+  {newest.length > 0 && (
+    <section aria-labelledby="new">
+      <div class="rail-head">
+        <h2 id="new">Bago-bago lang</h2>
+      </div>
+      <CardGrid entries={newest} />
+    </section>
+  )}
+
+  {oldSchool.length > 0 && (
+    <section aria-labelledby="old">
+      <div class="rail-head">
+        <h2 id="old">Old school</h2>
+      </div>
+      <CardGrid entries={oldSchool} />
+    </section>
+  )}
+
+  <section aria-labelledby="browse" class="browse">
+    <h2 id="browse">Browse</h2>
+    <ul class="kinds">
+      {KINDS.map((k) => (
+        <li>
+          <a href={`/kind/${k}/`}>
+            <span class="k">{KIND_LABEL[k]}</span>
+            <span class="n">{kindCount(k)}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <ul class="tags">
+      {tags.map(([t, n]) => (
+        <li><a href={`/tag/${t}/`}>{t} <span>{n}</span></a></li>
+      ))}
+    </ul>
+  </section>
+</Base>
+
+<style>
+  .intro {
+    margin-bottom: var(--space-xl);
+  }
+  .intro h1 {
+    font-size: var(--text-display);
+    max-width: 12ch;
+  }
+  .lede {
+    font-size: var(--text-lg);
+    max-width: 48ch;
+  }
+  .rail-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-md);
+    flex-wrap: wrap;
+    border-top: var(--rule-heavy);
+    padding-top: var(--space-sm);
+    margin-bottom: var(--space-md);
+  }
+  .rail-head h2 {
+    margin: 0;
+  }
+  .rail-head a {
+    font-weight: 650;
+    white-space: nowrap;
+  }
+  .browse {
+    border-top: var(--rule-heavy);
+    padding-top: var(--space-sm);
+  }
+  .kinds {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--space-md);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-xl);
+  }
+  .kinds a {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--space-xs);
+    padding: var(--space-md);
+    background: var(--color-accent);
+    color: var(--color-on-accent);
+    text-decoration: none;
+    border: 2px solid var(--color-ink);
+  }
+  .kinds a:hover {
+    background: var(--color-paper-2);
+    color: var(--color-ink);
+  }
+  .kinds .k {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: var(--text-xl);
+  }
+  .kinds .n {
+    font-weight: 650;
+  }
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .tags a {
+    display: inline-block;
+    padding: var(--space-2xs) var(--space-sm);
+    border: 1px solid var(--color-ink);
+    color: var(--color-ink);
+    text-decoration: none;
+    font-size: var(--text-sm);
+    white-space: nowrap;
+  }
+  .tags a:hover {
+    background: var(--color-ink);
+    color: var(--color-paper);
+  }
+  .tags span {
+    color: var(--color-ink-2);
+  }
+  .tags a:hover span {
+    color: inherit;
+  }
+  @media (max-width: 30rem) {
+    .kinds {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+</style>

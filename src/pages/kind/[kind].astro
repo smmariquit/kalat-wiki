@@ -1,0 +1,36 @@
+---
+import Base from '../../layouts/Base.astro';
+import CardGrid from '../../components/CardGrid.astro';
+import { allEntries, KIND_LABEL, type Entry } from '../../lib/entries';
+import { KINDS } from '../../content.config';
+
+const BLURB: Record<(typeof KINDS)[number], string> = {
+  meme: 'Mga meme format, reaction image, at viral moments.',
+  slang: 'Mga salita na sa internet at kalye mo natutunan, hindi sa school.',
+  quote: 'Mga linya galing pelikula, TV, at mga public figure na quoted pa rin hanggang ngayon.',
+};
+
+export async function getStaticPaths() {
+  const entries = await allEntries();
+  return KINDS.map((kind) => ({
+    params: { kind },
+    props: { kind, list: entries.filter((e) => e.data.kind === kind) },
+  }));
+}
+
+const { kind, list } = Astro.props as { kind: (typeof KINDS)[number]; list: Entry[] };
+---
+
+<Base title={KIND_LABEL[kind]} description={BLURB[kind]}>
+  <h1>{KIND_LABEL[kind]}</h1>
+  <p class="lede">{BLURB[kind]} {list.length} entries.</p>
+  <CardGrid entries={list} />
+</Base>
+
+<style>
+  .lede {
+    font-size: var(--text-lg);
+    max-width: 48ch;
+    margin-bottom: var(--space-xl);
+  }
+</style>

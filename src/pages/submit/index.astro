@@ -1,0 +1,185 @@
+---
+import Base from '../../layouts/Base.astro';
+import { TYPES } from '../../lib/submission';
+---
+
+<Base title="Submit" description="Mag-submit ng meme, correction, o removal request sa Kalat.">
+  <div class="prose">
+    <h1>Submit</h1>
+    <p>
+      Dadaan muna sa editor lahat bago lumabas sa site. Sinusulat namin ulit, kaya okay lang kahit
+      magulo yung sulat mo.
+    </p>
+    <p class="note">
+      Wag maglagay ng pangalan o personal info ng ordinary person na nag-viral. Yung meme ang i-describe,
+      hindi yung tao.
+    </p>
+  </div>
+
+  <form method="post" action="/api/submit" class="form">
+    <fieldset>
+      <legend>Anong klase?</legend>
+      <div class="types">
+        {Object.entries(TYPES).map(([value, label], i) => (
+          <label class="type">
+            <input type="radio" name="type" value={value} checked={i === 0} />
+            <span>{label}</span>
+          </label>
+        ))}
+      </div>
+    </fieldset>
+
+    <label>
+      <span>Pangalan ng meme o entry</span>
+      <input name="name" required maxlength="120" />
+    </label>
+    <label>
+      <span>Details</span>
+      <small class="muted" data-hint="new">Ano ibig sabihin, saan mo nakita, at saan galing kung alam mo.</small>
+      <small class="muted" data-hint="fix" hidden>Ano yung mali at ano dapat.</small>
+      <small class="muted" data-hint="remove" hidden>Anong entry at bakit gusto mong ipatanggal.</small>
+      <textarea name="details" required maxlength="4000" rows="6"></textarea>
+    </label>
+    <label>
+      <span>Links</span>
+      <small class="muted">Isang link per line. Kailangan ng kahit isa para sa bagong entry.</small>
+      <textarea name="sources" rows="3" placeholder="https://"></textarea>
+    </label>
+    <label>
+      <span>Contact mo (optional)</span>
+      <small class="muted">Para matanong ka namin kung may kulang. Hindi ito ipapakita sa site.</small>
+      <input name="contact" maxlength="200" autocomplete="email" />
+    </label>
+    <label class="hp" aria-hidden="true">
+      Website <input name="website" tabindex="-1" autocomplete="off" />
+    </label>
+    <button type="submit">Ipadala</button>
+  </form>
+</Base>
+
+<script>
+  const form = document.querySelector<HTMLFormElement>('.form')!;
+  const params = new URLSearchParams(location.search);
+  const name = params.get('name');
+  const type = params.get('type');
+  if (name) form.querySelector<HTMLInputElement>('[name=name]')!.value = name.slice(0, 120);
+  const radio = type && form.querySelector<HTMLInputElement>(`[name=type][value="${CSS.escape(type)}"]`);
+  if (radio) radio.checked = true;
+
+  function syncHints() {
+    const current = form.querySelector<HTMLInputElement>('[name=type]:checked')!.value;
+    for (const el of form.querySelectorAll<HTMLElement>('[data-hint]')) {
+      el.hidden = el.dataset.hint !== current;
+    }
+  }
+  form.addEventListener('change', syncHints);
+  syncHints();
+  form.addEventListener('submit', () => {
+    const btn = form.querySelector('button')!;
+    btn.disabled = true;
+    btn.textContent = 'Pinapadala…';
+  });
+</script>
+
+<style>
+  .note {
+    padding: var(--space-sm) var(--space-md);
+    background: var(--color-warn);
+    color: var(--color-ink);
+  }
+  .form {
+    display: grid;
+    gap: var(--space-lg);
+    max-width: 40rem;
+    margin-top: var(--space-xl);
+  }
+  fieldset {
+    border: 0;
+    padding: 0;
+    margin: 0;
+  }
+  legend,
+  label > span {
+    font-weight: 650;
+    margin-bottom: var(--space-2xs);
+  }
+  .types {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+    margin-top: var(--space-xs);
+  }
+  .type {
+    position: relative;
+  }
+  .type input {
+    position: absolute;
+    opacity: 0;
+  }
+  .type span {
+    display: inline-block;
+    padding: var(--space-xs) var(--space-md);
+    border: 2px solid var(--color-ink);
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .type input:checked + span {
+    background: var(--color-ink);
+    color: var(--color-paper);
+  }
+  .type input:focus-visible + span {
+    outline: 3px solid var(--color-focus);
+    outline-offset: 2px;
+  }
+  label {
+    display: grid;
+    gap: var(--space-2xs);
+  }
+  small {
+    font-size: var(--text-sm);
+  }
+  input:not([type='radio']),
+  textarea {
+    width: 100%;
+    padding: var(--space-sm);
+    border: 2px solid var(--color-ink);
+    border-radius: var(--radius);
+    background: var(--color-paper);
+  }
+  input:not([type='radio']):focus-visible,
+  textarea:focus-visible {
+    outline: none;
+    box-shadow: 4px 4px 0 var(--color-accent);
+  }
+  input:user-invalid,
+  textarea:user-invalid {
+    border-color: var(--color-accent-text);
+  }
+  button {
+    justify-self: start;
+    padding: var(--space-sm) var(--space-xl);
+    border: 2px solid var(--color-ink);
+    background: var(--color-accent);
+    color: var(--color-on-accent);
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: var(--text-lg);
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  button:hover {
+    box-shadow: 4px 4px 0 var(--color-ink);
+  }
+  button:active {
+    box-shadow: none;
+  }
+  button:disabled {
+    opacity: 0.6;
+    cursor: progress;
+    box-shadow: none;
+  }
+  .hp {
+    position: absolute;
+    left: -9999px;
+  }
+</style>

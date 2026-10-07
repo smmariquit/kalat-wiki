@@ -1,0 +1,21 @@
+name: build
+
+# The build is the policy check: an entry that breaks the schema
+# (e.g. zero sources) fails here and the PR cannot merge.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run build

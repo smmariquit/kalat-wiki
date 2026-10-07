@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import CardGrid from '../../components/CardGrid.astro';
+import { allEntries, tagCounts, type Entry } from '../../lib/entries';
+
+export async function getStaticPaths() {
+  const entries = await allEntries();
+  return tagCounts(entries).map(([tag]) => ({
+    params: { tag },
+    props: { tag, list: entries.filter((e) => e.data.tags.includes(tag)) },
+  }));
+}
+
+const { tag, list } = Astro.props as { tag: string; list: Entry[] };
+---
+
+<Base title={`#${tag}`} description={`Mga entry na naka-tag na ${tag} sa Kalat.`}>
+  <p class="muted"><a href="/a-z/">Lahat ng entry</a> / tag</p>
+  <h1>#{tag}</h1>
+  <p class="muted">{list.length} {list.length === 1 ? 'entry' : 'entries'}</p>
+  <CardGrid entries={list} />
+</Base>

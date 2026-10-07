@@ -1,0 +1,157 @@
+---
+// Search over /search.json. Without JS the form falls back to the A-Z page.
+---
+
+<form class="search" action="/a-z/" role="search" data-search>
+  <label for="q" class="visually-hidden">Hanapin ang meme o salita</label>
+  <input
+    id="q"
+    name="q"
+    type="search"
+    placeholder="Hanapin: sana all, charot, ten ten…"
+    autocomplete="off"
+    spellcheck="false"
+    aria-controls="search-results"
+  />
+  <ul id="search-results" class="results" aria-live="polite"></ul>
+</form>
+
+<script>
+  type Item = { i: string; t: string; a: string[]; s: string };
+
+  const norm = (s: string) =>
+    s
+      .normalize('NFKD')
+      .replace(/[̀-ͯ]/g, '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, ' ')
+      .trim();
+
+  const form = document.querySelector<HTMLFormElement>('[data-search]')!;
+  const input = form.querySelector('input')!;
+  const list = form.querySelector('ul')!;
+  let items: (Item & { keys: string })[] | null = null;
+
+  async function load() {
+    if (items) return items;
+    const res = await fetch('/search.json');
+    const data: Item[] = await res.json();
+    items = data.map((d) => ({ ...d, keys: norm([d.t, ...d.a].join(' ')) }));
+    return items;
+  }
+
+  function score(it: { t: string; keys: string; s: string }, q: string) {
+    const t = norm(it.t);
+    if (t === q) return 0;
+    if (t.startsWith(q)) return 1;
+    if (it.keys.includes(q)) return 2;
+    if (norm(it.s).includes(q)) return 3;
+    return -1;
+  }
+
+  async function run() {
+    const q = norm(input.value);
+    list.replaceChildren();
+    if (!q) return;
+    const hits = (await load())
+      .map((it) => ({ it, s: score(it, q) }))
+      .filter((x) => x.s >= 0)
+      .sort((a, b) => a.s - b.s || a.it.t.localeCompare(b.it.t))
+      .slice(0, 12);
+    if (hits.length === 0) {
+      const li = document.createElement('li');
+      li.className = 'empty';
+      li.textContent = 'Wala pa. ';
+      const a = document.createElement('a');
+      a.href = `/submit/?name=${encodeURIComponent(input.value.trim())}`;
+      a.textContent = 'I-submit mo?';
+      li.append(a);
+      list.append(li);
+      return;
+    }
+    for (const { it } of hits) {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = `/m/${it.i}/`;
+      const b = document.createElement('b');
+      b.textContent = it.t;
+      const span = document.createElement('span');
+      span.textContent = it.s;
+      a.append(b, span);
+      li.append(a);
+      list.append(li);
+    }
+  }
+
+  input.addEventListener('focus', () => void load(), { once: true });
+  input.addEventListener('input', () => void run());
+  form.addEventListener('submit', (e) => {
+    const first = list.querySelector<HTMLAnchorElement>('a[href^="/m/"]');
+    if (first) {
+      e.preventDefault();
+      location.href = first.href;
+    }
+  });
+</script>
+
+<style>
+  .search {
+    position: relative;
+    max-width: 40rem;
+    margin-bottom: var(--space-2xl);
+  }
+  input {
+    width: 100%;
+    padding: var(--space-sm) var(--space-md);
+    font-size: var(--text-lg);
+    border: 3px solid var(--color-ink);
+    background: var(--color-paper);
+    border-radius: var(--radius);
+  }
+  input::placeholder {
+    color: var(--color-ink-2);
+  }
+  input:focus-visible {
+    outline: none;
+    box-shadow: 5px 5px 0 var(--color-accent);
+  }
+  .results {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .results:not(:empty) {
+    border: 3px solid var(--color-ink);
+    border-top: 0;
+    max-height: 24rem;
+    overflow-y: auto;
+  }
+  .results a {
+    display: grid;
+    padding: var(--space-xs) var(--space-md);
+    color: var(--color-ink);
+    text-decoration: none;
+    border-top: var(--rule-hair);
+  }
+  .results a:hover,
+  .results a:focus-visible {
+    background: var(--color-accent);
+    color: var(--color-on-accent);
+    outline: none;
+  }
+  .results b {
+    font-family: var(--font-display);
+    font-weight: 750;
+  }
+  .results span {
+    font-size: var(--text-sm);
+    color: var(--color-ink-2);
+  }
+  .results a:hover span,
+  .results a:focus-visible span {
+    color: var(--color-on-accent);
+  }
+  .empty {
+    padding: var(--space-sm) var(--space-md);
+  }
+</style>

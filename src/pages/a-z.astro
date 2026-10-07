@@ -1,0 +1,86 @@
+---
+import Base from '../layouts/Base.astro';
+import { allEntries, letterOf, KIND_LABEL } from '../lib/entries';
+
+const entries = await allEntries();
+const groups = new Map<string, typeof entries>();
+for (const e of entries) {
+  const l = letterOf(e.data.title);
+  groups.set(l, [...(groups.get(l) ?? []), e]);
+}
+const letters = [...groups.keys()].sort((a, b) => (a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b)));
+---
+
+<Base title="A–Z" description={`Lahat ng ${entries.length} entries sa Kalat, A to Z.`}>
+  <h1>A–Z</h1>
+  <p class="muted">{entries.length} entries.</p>
+  <nav class="jump" aria-label="Jump to letter">
+    {letters.map((l) => <a href={`#${l}`}>{l}</a>)}
+  </nav>
+
+  {letters.map((l) => (
+    <section id={l} class="group" aria-labelledby={`h-${l}`}>
+      <h2 id={`h-${l}`}>{l}</h2>
+      <ul>
+        {groups.get(l)!.map((e) => (
+          <li>
+            <a href={`/m/${e.id}/`}>{e.data.title}</a>
+            <span class="muted"> · {KIND_LABEL[e.data.kind]}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>
+
+<style>
+  .jump {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2xs) var(--space-sm);
+    margin-bottom: var(--space-xl);
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: var(--text-xl);
+  }
+  .jump a {
+    color: var(--color-ink);
+    text-decoration: none;
+  }
+  .jump a:hover {
+    color: var(--color-accent-text);
+  }
+  .group {
+    display: grid;
+    grid-template-columns: 4rem minmax(0, 1fr);
+    gap: var(--space-md);
+    border-top: var(--rule-heavy);
+    padding: var(--space-sm) 0 var(--space-lg);
+    scroll-margin-top: var(--space-md);
+  }
+  .group h2 {
+    font-size: var(--text-2xl);
+    font-weight: 800;
+    margin: 0;
+  }
+  .group ul {
+    columns: 16rem;
+    column-gap: var(--space-xl);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .group li {
+    break-inside: avoid;
+    padding: var(--space-2xs) 0;
+  }
+  .group li a {
+    font-weight: 600;
+  }
+  @media (max-width: 30rem) {
+    .group {
+      grid-template-columns: minmax(0, 1fr);
+      gap: var(--space-xs);
+    }
+  }
+</style>

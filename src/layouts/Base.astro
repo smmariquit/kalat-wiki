@@ -1,0 +1,153 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title, description = 'Kalat: encyclopedia ng Pinoy memes at slang.' } = Astro.props;
+const fullTitle = title ? `${title} | Kalat` : 'Kalat: encyclopedia ng Pinoy memes at slang';
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const letters = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'];
+---
+
+<!doctype html>
+<html lang="fil">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Kalat" />
+    <meta name="theme-color" content="#f7f1e6" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#121621" media="(prefers-color-scheme: dark)" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="slab">
+      <div class="wrap slab-inner">
+        <a href="/" class="mark" aria-label="Kalat home">KALAT<span>.wiki</span></a>
+        <nav aria-label="Main">
+          <ul>
+            <li><a href="/a-z/">A–Z</a></li>
+            <li><a href="/submit/">Submit</a></li>
+            <li><a href="/about/">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="wrap">
+      <slot />
+    </main>
+
+    <footer class="foot">
+      <div class="wrap">
+        <nav aria-label="A to Z" class="letters">
+          {letters.map((l) => <a href={`/a-z/#${l}`}>{l}</a>)}
+        </nav>
+        <p>
+          Lahat ng entry dito dumaan sa editor bago i-publish. May mali o gusto mong ipatanggal?
+          <a href="/submit/?type=remove">Sabihin mo sa amin</a>.
+        </p>
+        <p class="muted">
+          <a href="/about/">About at rules</a> · <a href="/submit/">Mag-submit ng meme</a> ·
+          <a href="/a-z/">Lahat ng entry</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .skip {
+    position: absolute;
+    left: var(--space-md);
+    top: -4rem;
+    padding: var(--space-xs) var(--space-md);
+    background: var(--color-ink);
+    color: var(--color-paper);
+    z-index: 2;
+  }
+  .skip:focus {
+    top: var(--space-md);
+  }
+  .slab {
+    border-bottom: var(--rule-heavy);
+    background: var(--color-paper);
+    margin-bottom: var(--space-2xl);
+  }
+  .slab-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-md);
+    min-height: 3.75rem;
+    flex-wrap: wrap;
+  }
+  .mark {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: var(--text-xl);
+    letter-spacing: 0.02em;
+    color: var(--color-ink);
+    text-decoration: none;
+    white-space: nowrap;
+    /* riso misregistration: one blue plate slightly off */
+    text-shadow: 2px 1px 0 var(--color-riso-blue);
+  }
+  .mark span {
+    color: var(--color-accent-text);
+    text-shadow: none;
+  }
+  nav ul {
+    display: flex;
+    gap: var(--space-lg);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  nav ul a {
+    color: var(--color-ink);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: var(--text-sm);
+    font-weight: 650;
+    white-space: nowrap;
+  }
+  nav ul a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+  }
+  .foot {
+    margin-top: var(--space-3xl);
+    padding: var(--space-xl) 0 var(--space-2xl);
+    border-top: var(--rule-heavy);
+    font-size: var(--text-sm);
+  }
+  .letters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2xs) var(--space-sm);
+    margin-bottom: var(--space-lg);
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: var(--text-lg);
+  }
+  .letters a {
+    color: var(--color-ink);
+    text-decoration: none;
+    min-width: 1.6ch;
+  }
+  .letters a:hover {
+    color: var(--color-accent-text);
+  }
+</style>

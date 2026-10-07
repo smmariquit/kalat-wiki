@@ -1,0 +1,147 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import CardGrid from '../../components/CardGrid.astro';
+import { allEntries, related, KIND_LABEL, type Entry } from '../../lib/entries';
+
+export async function getStaticPaths() {
+  const entries = await allEntries();
+  return entries.map((entry) => ({ params: { id: entry.id }, props: { entry, entries } }));
+}
+
+const { entry, entries } = Astro.props as { entry: Entry; entries: Entry[] };
+const { Content } = await render(entry);
+const { title, summary, kind, status, originYear, aliases, sources, tags, updated } = entry.data;
+const more = related(entry, entries);
+const fixLink = `/submit/?type=fix&name=${encodeURIComponent(title)}`;
+---
+
+<Base title={title} description={summary}>
+  <article class="entry">
+    <p class="kicker">
+      <a href={`/kind/${kind}/`}>{KIND_LABEL[kind]}</a>{originYear && <> · {originYear}</>}
+    </p>
+    <h1>{title}</h1>
+    <p class="summary">{summary}</p>
+    {aliases.length > 0 && <p class="aka">aka {aliases.join(', ')}</p>}
+    {status === 'researching' && (
+      <p class="warn">
+        Hindi pa verified ang origin nito. May alam ka? <a href={fixLink}>Sabihin mo</a>.
+      </p>
+    )}
+
+    <div class="prose body">
+      <Content />
+    </div>
+
+    <section class="sources" aria-labelledby="src">
+      <h2 id="src">Sources</h2>
+      <ol>
+        {sources.map((s) => (
+          <li><a href={s.url} rel="nofollow noopener noreferrer" target="_blank">{s.label}</a></li>
+        ))}
+      </ol>
+    </section>
+
+    <footer class="meta">
+      {tags.length > 0 && (
+        <ul class="tags">
+          {tags.map((t) => <li><a href={`/tag/${t}/`}>{t}</a></li>)}
+        </ul>
+      )}
+      <p class="muted">
+        Updated {updated.toISOString().slice(0, 10)} · <a href={fixLink}>May mali? I-report</a>
+      </p>
+    </footer>
+  </article>
+
+  {more.length > 0 && (
+    <section class="more" aria-labelledby="more">
+      <h2 id="more">Kapareho nito</h2>
+      <CardGrid entries={more} />
+    </section>
+  )}
+</Base>
+
+<style>
+  .entry {
+    max-width: var(--measure);
+  }
+  .kicker {
+    font-size: var(--text-sm);
+    font-weight: 650;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: var(--space-xs);
+  }
+  .kicker a {
+    color: var(--color-ink-2);
+  }
+  .entry h1 {
+    font-size: var(--text-display-s);
+  }
+  .summary {
+    font-size: var(--text-lg);
+    line-height: 1.45;
+  }
+  .aka {
+    color: var(--color-ink-2);
+  }
+  .warn {
+    padding: var(--space-sm) var(--space-md);
+    background: var(--color-warn);
+    color: var(--color-ink);
+  }
+  .body {
+    margin-top: var(--space-xl);
+  }
+  .body :global(h2) {
+    margin-top: var(--space-xl);
+    padding-top: var(--space-xs);
+    border-top: var(--rule-heavy);
+  }
+  .sources {
+    margin-top: var(--space-xl);
+    font-size: var(--text-sm);
+  }
+  .sources h2 {
+    padding-top: var(--space-xs);
+    border-top: var(--rule-heavy);
+  }
+  .sources a {
+    overflow-wrap: anywhere;
+  }
+  .meta {
+    margin-top: var(--space-xl);
+    padding-top: var(--space-md);
+    border-top: var(--rule-hair);
+    font-size: var(--text-sm);
+  }
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-sm);
+  }
+  .tags a {
+    display: inline-block;
+    padding: 0 var(--space-xs);
+    border: 1px solid var(--color-ink);
+    color: var(--color-ink);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .tags a:hover {
+    background: var(--color-ink);
+    color: var(--color-paper);
+  }
+  .more {
+    margin-top: var(--space-3xl);
+  }
+  .more h2 {
+    border-top: var(--rule-heavy);
+    padding-top: var(--space-sm);
+  }
+</style>
