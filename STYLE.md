@@ -32,6 +32,7 @@ Rules of thumb:
 ## Legal rules (these are not optional)
 
 - Describe the meme, never judge a person. "Sumikat yung linya after the interview" is fine. "Sinungaling siya" is not.
+- Never name anyone who was under 18 when the meme happened, even if they are famous or an adult now. If the meme centers on them, skip it.
 - Never name or describe a private person who went viral (ordinary people in viral clips, crime suspects, scandal subjects). Say "isang lalaki sa news interview" and leave it there. No names, no faces, no locations that identify them.
 - Public figures (celebrities, politicians, characters, brands) can be named for what they publicly said or did, stated as fact with a source.
 - Every factual claim about an origin needs a source in `sources`. If you cannot source the origin, set `status: researching` and say in the entry that the origin is not yet verified.
@@ -63,4 +64,10 @@ updated: 2026-10-08
 ## Halimbawa
 ```
 
-`Halimbawa` is one to three short example lines in a blockquote, the way people would actually post them.
+`Halimbawa` is one to three short example lines in a blockquote, the way people would actually post them. Put a blank `>` line between examples, otherwise they render as one line:
+
+```md
+> sana all may ka-date
+>
+> sanaol pinapansin
+```
