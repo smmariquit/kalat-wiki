@@ -27,7 +27,7 @@ const letters = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'];
     <meta property="og:url" content={canonical} />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Kalat" />
-    <meta name="theme-color" content="#f7f1e6" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#fbf8f8" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#121621" media="(prefers-color-scheme: dark)" />
   </head>
   <body>
@@ -77,7 +77,7 @@ const letters = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'];
     top: -4rem;
     padding: var(--space-xs) var(--space-md);
     background: var(--color-ink);
-    color: var(--color-paper);
+    color: var(--color-bg);
     z-index: 2;
   }
   .skip:focus {
@@ -85,7 +85,7 @@ const letters = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'];
   }
   .slab {
     border-bottom: var(--rule-heavy);
-    background: var(--color-paper);
+    background: var(--color-bg);
     margin-bottom: var(--space-2xl);
   }
   .slab-inner {
@@ -140,16 +140,19 @@ const letters = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'];
   .letters {
     display: flex;
     flex-wrap: wrap;
-    gap: var(--space-2xs) var(--space-sm);
-    margin-bottom: var(--space-lg);
+    gap: 0;
+    margin: 0 0 var(--space-lg) calc(var(--space-sm) * -1);
     font-family: var(--font-display);
     font-weight: 800;
     font-size: var(--text-lg);
   }
   .letters a {
+    display: inline-grid;
+    place-items: center;
+    min-width: 2.75rem;
+    min-height: 2.75rem;
     color: var(--color-ink);
     text-decoration: none;
-    min-width: 1.6ch;
   }
   .letters a:hover {
     color: var(--color-accent-text);

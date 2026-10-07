@@ -15,7 +15,7 @@ body {
 
 body {
   margin: 0;
-  background: var(--color-paper);
+  background: var(--color-bg);
   color: var(--color-ink);
   font-family: var(--font-body);
   font-size: var(--text-base);
@@ -31,6 +31,7 @@ h3 {
   line-height: 1.05;
   overflow-wrap: anywhere;
   min-width: 0;
+  text-wrap: balance;
   margin: 0 0 var(--space-md);
 }
 
@@ -52,6 +53,7 @@ h3 {
 
 p {
   margin: 0 0 var(--space-md);
+  text-wrap: pretty;
 }
 
 a {
@@ -72,7 +74,7 @@ a:hover {
 blockquote {
   margin: 0 0 var(--space-md);
   padding: var(--space-sm) var(--space-md);
-  background: var(--color-paper-2);
+  background: var(--color-surface);
   border: var(--rule-hair);
 }
 

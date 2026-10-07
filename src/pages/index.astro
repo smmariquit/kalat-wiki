@@ -125,7 +125,7 @@ const kindCount = (k: string) => entries.filter((e) => e.data.kind === k).length
     border: 2px solid var(--color-ink);
   }
   .kinds a:hover {
-    background: var(--color-paper-2);
+    background: var(--color-surface);
     color: var(--color-ink);
   }
   .kinds .k {
@@ -145,8 +145,10 @@ const kindCount = (k: string) => entries.filter((e) => e.data.kind === k).length
     margin: 0;
   }
   .tags a {
-    display: inline-block;
-    padding: var(--space-2xs) var(--space-sm);
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.5rem;
+    padding: 0 var(--space-sm);
     border: 1px solid var(--color-ink);
     color: var(--color-ink);
     text-decoration: none;
@@ -155,7 +157,7 @@ const kindCount = (k: string) => entries.filter((e) => e.data.kind === k).length
   }
   .tags a:hover {
     background: var(--color-ink);
-    color: var(--color-paper);
+    color: var(--color-bg);
   }
   .tags span {
     color: var(--color-ink-2);

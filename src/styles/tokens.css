@@ -7,9 +7,9 @@
   --font-display: 'Bricolage Grotesque Variable', 'Arial Narrow', sans-serif;
   --font-body: 'Geist Variable', ui-sans-serif, sans-serif;
 
-  /* Paper and ink, light */
-  --color-paper: oklch(96.5% 0.018 85);
-  --color-paper-2: oklch(93% 0.026 85);
+  /* Off-white tinted toward the riso pink, not cream */
+  --color-bg: oklch(98.5% 0.006 0);
+  --color-surface: oklch(95% 0.012 0);
   --color-ink: oklch(24% 0.035 265);
   --color-ink-2: oklch(45% 0.03 265);
   --color-rule: oklch(24% 0.035 265 / 0.18);
@@ -19,7 +19,7 @@
   --color-accent-text: oklch(50% 0.2 5);
   /* Riso blue: misregistration shadow on the wordmark only */
   --color-riso-blue: oklch(58% 0.16 250);
-  --color-warn: oklch(88% 0.1 90);
+  --color-warn: oklch(90% 0.11 95);
   /* Text on pink blocks stays dark in both modes */
   --color-on-accent: oklch(24% 0.035 265);
   --color-focus: oklch(50% 0.2 5);
@@ -31,7 +31,7 @@
   --text-xl: 1.66rem;
   --text-2xl: 2.08rem;
   --text-display-s: clamp(2.4rem, 8vw, 4.2rem);
-  --text-display: clamp(2.8rem, 11vw, 6.5rem);
+  --text-display: clamp(2.8rem, 11vw, 6rem);
 
   --space-2xs: 0.25rem;
   --space-xs: 0.5rem;
@@ -57,8 +57,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-paper: oklch(19% 0.025 265);
-    --color-paper-2: oklch(24% 0.03 265);
+    --color-bg: oklch(19% 0.025 265);
+    --color-surface: oklch(24% 0.03 265);
     --color-ink: oklch(94% 0.02 85);
     --color-ink-2: oklch(76% 0.02 85);
     --color-rule: oklch(94% 0.02 85 / 0.2);
