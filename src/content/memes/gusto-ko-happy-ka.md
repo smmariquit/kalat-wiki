@@ -19,7 +19,11 @@ Pang-lambing na linya, parang "basta masaya ka, okay na ako." Madalas ginagamit 
 
 ## Saan galing
 
-Campaign slogan 'to ni dating Senate President Juan Ponce Enrile, at ginamit pa rin niya nung 2019 elections, ayon sa Philstar. Nung birthday niya nung 2021, na tapat ng Valentine's Day, maraming memes ang ginawa ng netizens, at sinabi ng anak niya na natatawa rin sila sa mga 'yon, ayon sa PEP.
+Campaign slogan 'to ni dating Senate President Juan Ponce Enrile, at ginamit pa rin niya nung 2019 elections, ayon sa Philstar.
+
+## Paano kumalat
+
+Nung birthday niya nung 2021, na tapat ng Valentine's Day, maraming memes ang ginawa ng netizens, at sinabi ng anak niya na natatawa rin sila sa mga 'yon, ayon sa PEP.
 
 ## Halimbawa
 

@@ -18,7 +18,11 @@ Clip ng isang news anchor na napadaan sa likod ng kasama niya habang live, tapos
 
 ## Saan galing
 
-Nung October 28, 2024, nasa ere si Noli de Castro sa TV Patrol nung napadaan si Karen Davila sa likod niya, ayon sa Interaksyon. Ni-post ng isang parody account sa X yung clip na may caption na "LARO KA, MS. KAREN DAVILA," tapos may nag-comment ng "NATIMBOG" at "timbog era."
+Nung October 28, 2024, nasa ere si Noli de Castro sa TV Patrol nung napadaan si Karen Davila sa likod niya, ayon sa Interaksyon.
+
+## Paano kumalat
+
+Ni-post ng isang parody account sa X yung clip na may caption na "LARO KA, MS. KAREN DAVILA." Tapos may nag-comment ng "NATIMBOG" at "timbog era."
 
 ## Halimbawa
 

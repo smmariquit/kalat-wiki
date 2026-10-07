@@ -18,7 +18,11 @@ Short ang "amp" sa isang kilalang Tagalog na mura. Pero sa gamit, mas parang "ug
 
 ## Saan galing
 
-Ayon sa GMA News, galing 'to sa mga Pinoy na naglalaro ng Ragnarok Online around 2003. Kailangan mabilis mag-type habang naglalaro kaya pinaikli. Kumalat siya sa ibang games, Friendster, at Yahoo Messenger, tapos nagkaroon ng mga variant tulad ng "amfufu."
+Ayon sa GMA News, galing 'to sa mga Pinoy na naglalaro ng Ragnarok Online around 2003. Kailangan mabilis mag-type habang naglalaro kaya pinaikli.
+
+## Paano kumalat
+
+Kumalat siya sa ibang games, Friendster, at Yahoo Messenger, tapos nagkaroon ng mga variant tulad ng "amfufu."
 
 ## Halimbawa
 

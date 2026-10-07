@@ -20,7 +20,11 @@ Sinasabi 'to pag sunod-sunod ang tanong o trabaho at kailangan mo munang mag-pau
 
 ## Saan galing
 
-Sa Miss Universe Philippines 2020, bago humarap sa judges para sa Q&A, nasabi ni Miss Manila Alexandra Abdon yung "Wait, kailangan kong huminga!" Sa isa pang tanong, hirit niya "Wait! Puwedeng i-pause ang time?" ayon sa PEP. Hindi siya nanalo, pero ginawan siya ng memes ng netizens at ni-repost pa niya mismo, ayon sa GMA.
+Sa Miss Universe Philippines 2020, bago humarap sa judges para sa Q&A, nasabi ni Miss Manila Alexandra Abdon yung "Wait, kailangan kong huminga!" Sa isa pang tanong, hirit niya "Wait! Puwedeng i-pause ang time?" ayon sa PEP.
+
+## Paano kumalat
+
+Hindi siya nanalo, pero ginawan siya ng memes ng netizens at ni-repost pa niya mismo, ayon sa GMA.
 
 ## Halimbawa
 

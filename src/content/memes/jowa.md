@@ -23,7 +23,11 @@ Tawag sa ka-relasyon mo. Pwedeng boyfriend, girlfriend, o asawa. Sobrang common 
 
 ## Saan galing
 
-Galing sa swardspeak, binago lang yung "asawa" gamit ang gay slang na "jo-." Sa isang 2019 na ethnography paper sa re:think journal, sinabi ng author na naririnig na niya ang jowa kahit sa mga heterosexual sa pamilya niya.
+Galing sa swardspeak, binago lang yung "asawa" gamit ang gay slang na "jo-."
+
+## Paano kumalat
+
+Sa isang 2019 na ethnography paper sa re:think journal, sinabi ng author na naririnig na niya ang jowa kahit sa mga heterosexual sa pamilya niya.
 
 ## Halimbawa
 

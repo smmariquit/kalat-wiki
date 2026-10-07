@@ -19,7 +19,11 @@ Pang-open 'to ng announcement sa GC o sa post, sabay boses ni Kabayan sa isip mo
 
 ## Saan galing
 
-Galing kay Noli "Kabayan" de Castro. Host siya ng programang Magandang Gabi... Bayan mula 1988 hanggang 2004, at anchor din ng TV Patrol. Sobrang kilala yung pagbati na 'yan na ginamit pa ni President Benigno Aquino III sa speech niya sa 25th anniversary ng TV Patrol noong 2012.
+Galing kay Noli "Kabayan" de Castro. Host siya ng programang Magandang Gabi... Bayan mula 1988 hanggang 2004, at anchor din ng TV Patrol.
+
+## Paano kumalat
+
+Sobrang kilala yung pagbati na 'yan na ginamit pa ni President Benigno Aquino III sa speech niya sa 25th anniversary ng TV Patrol noong 2012.
 
 ## Halimbawa
 

@@ -19,7 +19,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Isa 'to sa mga reverse slang na sabay-sabay sumikat noong 2017, ayon sa PEP. Yung pagbaliktad ng salita ay ginagawa na rin ng mga kabataan noong 70s, kaya parang revival lang talaga 'to.
+Yung pagbaliktad ng salita ay ginagawa na rin ng mga kabataan noong 70s, kaya parang revival lang talaga 'to.
+
+## Paano kumalat
+
+Isa 'to sa mga reverse slang na sabay-sabay sumikat noong 2017, ayon sa PEP.
 
 ## Halimbawa
 

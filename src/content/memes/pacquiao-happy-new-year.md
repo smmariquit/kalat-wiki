@@ -20,7 +20,11 @@ Video ni Manny Pacquiao na bumabati ng "Happy New Year" habang may fireworks sa 
 
 ## Saan galing
 
-Unang na-upload yung video nung December 31, 2015, ayon sa Interaksyon. Pagpasok ng 2023, ginamit ulit 'to ng maraming pages at users bilang greeting. Nung December 2023, may lumabas pang meme na nakalagay si Pacquiao sa ice cube na may text na "The defrosting has begun."
+Unang na-upload yung video nung December 31, 2015, ayon sa Interaksyon.
+
+## Paano kumalat
+
+Pagpasok ng 2023, ginamit ulit 'to ng maraming pages at users bilang greeting. Nung December 2023, may lumabas pang meme na nakalagay si Pacquiao sa ice cube na may text na "The defrosting has begun."
 
 ## Halimbawa
 

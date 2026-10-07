@@ -26,6 +26,8 @@ Madalas 'to sa comments pag may kumopya ng outfit, post, o business idea.
 
 Galing 'to sa Bituing Walang Ningning (1985). Si Cherie Gil, as Lavinia Arguelles, ang nagsabi nito kay Dorina Pineda (Sharon Cuneta) bago niya binuhusan ng tubig sa mukha.
 
+## Paano kumalat
+
 Nung 2018 gumawa pa si Cherie Gil ng Instagram account para i-reenact yung eksena kasama ang ibang celebrities, tulad nina Bea Alonzo at Paulo Avelino.
 
 ## Halimbawa

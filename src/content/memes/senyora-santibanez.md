@@ -18,7 +18,11 @@ Picture ng isang mayamang kontrabida na may caption na sobrang OA na utos para s
 
 ## Saan galing
 
-Galing sa 1994 Mexican telenovela na Marimar, kung saan si Chantal Andere ang gumanap na Angelica Santibañez. Kasama siya sa Top 10 Pinoy Memes of 2012 ng SPOT.ph, at sabi ng SPOT.ph nagkaroon pa siya ng sariling Twitter at Facebook account.
+Galing sa 1994 Mexican telenovela na Marimar, kung saan si Chantal Andere ang gumanap na Angelica Santibañez.
+
+## Paano kumalat
+
+Kasama siya sa Top 10 Pinoy Memes of 2012 ng SPOT.ph, at sabi ng SPOT.ph nagkaroon pa siya ng sariling Twitter at Facebook account.
 
 ## Halimbawa
 

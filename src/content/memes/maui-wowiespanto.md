@@ -17,7 +17,11 @@ Ginagaya ng mga tao yung tono, mukha, at buong energy ni Darren habang kinakanta
 
 ## Saan galing
 
-Chill na TikTok challenge lang dati yung "Maui Wowie" ni Kid Cudi. Tapos kinanta ni Darren Espanto sa ASAP nang sobrang dramatic, kaya pumutok. Sinakyan din ni Darren at nag-repost siya ng edits.
+Chill na TikTok challenge lang dati yung "Maui Wowie" ni Kid Cudi. Tapos kinanta ni Darren Espanto sa ASAP nang sobrang dramatic.
+
+## Paano kumalat
+
+Dun na pumutok yung meme. Sinakyan din ni Darren at nag-repost siya ng edits.
 
 ## Halimbawa
 

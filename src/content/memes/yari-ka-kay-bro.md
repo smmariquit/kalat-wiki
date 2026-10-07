@@ -20,7 +20,7 @@ Pag may nagkasala nang konti, "yari ka kay Bro." Ito rin agad yung banat ng neti
 
 ## Saan galing
 
-Galing sa May Bukas Pa, drama ng ABS-CBN na umere mula February 2009 hanggang February 2010. Si Zaijian Jaranilla si Santino, batang lumaki sa mga pari na nakakausap si Jesus at "Bro" ang tawag niya sa kanya. Noong 2025, nung lumabas ang trailer ng isang mature na project ni Zaijian, bumaha ulit ng "yari ka kay Bro" sa comments.
+Galing sa May Bukas Pa, drama ng ABS-CBN na umere mula February 2009 hanggang February 2010. Ang bida ay si Santino, batang lumaki sa mga pari na nakakausap si Jesus at "Bro" ang tawag niya sa kanya. Noong 2025, nung lumabas ang trailer ng isang mature na project ni Zaijian Jaranilla, na adult na ngayon at siyang gumanap kay Santino, bumaha ulit ng "yari ka kay Bro" sa comments.
 
 ## Halimbawa
 

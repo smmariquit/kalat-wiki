@@ -17,7 +17,11 @@ Pag magkatabi kayo sa computer shop tapos magkalaban, bawal sumilip sa screen ng
 
 ## Saan galing
 
-Galing 'to sa StarCraft, kung saan may ComSat Station ang Terran na pang-scan ng mapa. Sumikat ang term sa mga internet café noong late 90s hanggang early 2000s, lalo na nung Counter-Strike era. Ayon sa GameIndustry.ph, unti-unti na 'tong nawala kasabay ng pagkawala ng comshop culture.
+Galing 'to sa StarCraft, kung saan may ComSat Station ang Terran na pang-scan ng mapa.
+
+## Paano kumalat
+
+Sumikat ang term sa mga internet café noong late 90s hanggang early 2000s, lalo na nung Counter-Strike era. Ayon sa GameIndustry.ph, unti-unti na 'tong nawala kasabay ng pagkawala ng comshop culture.
 
 ## Halimbawa
 

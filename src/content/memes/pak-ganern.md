@@ -19,7 +19,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Lalong sumikat dahil sa Pak Ganern clap game na pinakilala ni Vice Ganda sa It's Showtime noong August 17, 2016. Galing yung game sa "Nanay, Tatay" na laro ng mga bata. Hindi pa verified kung kailan unang ginamit yung phrase mismo.
+Hindi pa verified kung kailan unang ginamit yung phrase mismo.
+
+## Paano kumalat
+
+Lalong sumikat dahil sa Pak Ganern clap game na pinakilala ni Vice Ganda sa It's Showtime noong August 17, 2016. Galing yung game sa "Nanay, Tatay" na laro ng mga bata.
 
 ## Halimbawa
 

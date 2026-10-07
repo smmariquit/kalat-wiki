@@ -18,7 +18,11 @@ Ginagamit 'to pa-joke pag may nagku-kwento ng nangyari tapos iba-iba ang version
 
 ## Saan galing
 
-Nung July 2022, kumalat ang statement ni Ella Cruz na "history is like chismis," at sinabi rin niyang "hindi natin alam what is the real history," ayon sa GMA. Maraming nag-react, kasama ang ibang artista, at iba-iba ang naging opinyon ng mga tao.
+Galing 'to sa statement ni Ella Cruz na "history is like chismis," kung saan sinabi rin niyang "hindi natin alam what is the real history," ayon sa GMA.
+
+## Paano kumalat
+
+Kumalat 'to nung July 2022. Maraming nag-react, kasama ang ibang artista, at iba-iba ang naging opinyon ng mga tao.
 
 ## Halimbawa
 

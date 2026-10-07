@@ -17,7 +17,11 @@ Yung "Hooooo woooOOOOoo" ad lib ni Aljur ang ginagamit na sound sa mga video ng 
 
 ## Saan galing
 
-Nagpo-post si Aljur Abrenica ng covers, tapos yung version niya ng "Past Lives" ng BØRNS ang pumutok. Raw at minsan off-key daw yung delivery, kaya ang daming edits.
+Nagpo-post si Aljur Abrenica ng covers, tapos yung version niya ng "Past Lives" ng BØRNS ang pumutok.
+
+## Paano kumalat
+
+Raw at minsan off-key daw yung delivery, kaya ang daming edits.
 
 ## Halimbawa
 

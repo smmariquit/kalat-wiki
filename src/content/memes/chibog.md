@@ -17,7 +17,11 @@ Chibog means kain o pagkain. "Chibog na" is basically "kain na tayo." Pwede rin 
 
 ## Saan galing
 
-Hindi pa verified kung saan galing yung word. Sikat na sikat pa rin 'to, umabot pa sa isang 2024 vlog ni President Marcos tungkol sa food tourism.
+Hindi pa verified kung saan galing yung word.
+
+## Paano kumalat
+
+Sikat na sikat pa rin 'to, umabot pa sa isang 2024 vlog ni President Marcos tungkol sa food tourism.
 
 ## Halimbawa
 

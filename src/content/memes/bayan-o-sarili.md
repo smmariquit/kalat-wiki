@@ -22,7 +22,11 @@ Ginagamit 'to pag may pinipili sa pagitan ng tama para sa lahat at ng pansarilin
 
 ## Saan galing
 
-Galing sa Heneral Luna (2015) ni Jerrold Tarog, kung saan si John Arcilla ang gumanap na Antonio Luna. Sa isang cabinet meeting sinigaw niya ang "Negosyo o kalayaan? Bayan o sarili? Pumili ka!" Tagline din ng pelikula ang "Bayan o Sarili," at ni-share at ginawang memes ng viewers yung mga linya.
+Galing sa Heneral Luna (2015) ni Jerrold Tarog, kung saan si John Arcilla ang gumanap na Antonio Luna. Sa isang cabinet meeting sinigaw niya ang "Negosyo o kalayaan? Bayan o sarili? Pumili ka!" Tagline din ng pelikula ang "Bayan o Sarili."
+
+## Paano kumalat
+
+Ni-share at ginawang memes ng viewers yung mga linya.
 
 ## Halimbawa
 

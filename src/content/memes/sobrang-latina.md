@@ -21,7 +21,11 @@ Sabi ng Cosmo, parang "very demure, very mindful" daw 'to ng 2025.
 
 ## Saan galing
 
-Galing sa isang Pinoy content creator na nag-exclaim ng "Sobrang Latina!" habang pinapakita yung bold, bronzed glam look niya. Yung delivery yung talagang dumale, kaya ginaya ng lahat.
+Galing sa isang Pinoy content creator na nag-exclaim ng "Sobrang Latina!" habang pinapakita yung bold, bronzed glam look niya.
+
+## Paano kumalat
+
+Yung delivery yung talagang dumale, kaya ginaya ng lahat.
 
 ## Halimbawa
 

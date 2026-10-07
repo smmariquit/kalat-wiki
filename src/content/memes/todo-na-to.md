@@ -21,6 +21,10 @@ Pag all-out ka na, sa sayaw man, sa exam, o sa pag-order ng milk tea, "todo na '
 
 Galing kay Rufa Mae Quinto, comedienne at TV host. Kwento niya sa Fast Talk with Boy Abunda noong 2023, sinasabi niya yung "todo na 'to" sa set para ganahan ang mga kasama at bumilis ang trabaho. Yung "Go, go, go!" naman, galing daw sa paniniwala niya na ituloy mo lang pag naniniwala ka sa isang bagay.
 
+## Paano kumalat
+
+Nung naglabas ang Waze ng Filipino voice, may mga netizen na nag-petition na si Rufa Mae na lang. Sinakyan niya 'to noong August 2018 sa isang vlog kung saan nag-audition siya as Waze navigator gamit ang "Go, go, go" at "todo na 'to," ayon sa Interaksyon.
+
 ## Halimbawa
 
 > last day ng sale. todo na 'to!

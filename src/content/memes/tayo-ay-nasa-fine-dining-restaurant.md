@@ -17,7 +17,11 @@ Ginagamit sa mga food skit, kadalasan may kasamang sappy na music, pag may kumak
 
 ## Saan galing
 
-Galing sa season 3 ng reality show ni Toni Fowler na ToRo Family. Sa isang dinner sa fine dining restaurant, sinita niya yung table manners ng isang kasama nila. Yung exaggerated na delivery niya ang ginawang skit ng mga tao.
+Galing sa season 3 ng reality show ni Toni Fowler na ToRo Family. Sa isang dinner sa fine dining restaurant, sinita niya yung table manners ng isang kasama nila.
+
+## Paano kumalat
+
+Yung exaggerated na delivery niya ang ginawang skit ng mga tao.
 
 ## Halimbawa
 

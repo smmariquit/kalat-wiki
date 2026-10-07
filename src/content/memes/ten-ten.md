@@ -17,7 +17,11 @@ Ginagamit sa TikTok pag may sablay na diskarte o pag 'di nagkaintindihan.
 
 ## Saan galing
 
-Galing sa pelikulang Ang Tanging Ina (2003), kung saan tinatawag ni Ina Montecillo (Ai-Ai delas Alas) ang anak niyang si Tenten na bingi, tapos pag na-realize niyang 'di siya naririnig, binubuka na lang niya nang todo yung bibig. Ayon sa M2 Comms, nag-resurface 'to as TikTok meme around 2023.
+Galing sa pelikulang Ang Tanging Ina (2003), kung saan tinatawag ni Ina Montecillo (Ai-Ai delas Alas) ang anak niyang si Tenten na bingi, tapos pag na-realize niyang 'di siya naririnig, binubuka na lang niya nang todo yung bibig.
+
+## Paano kumalat
+
+Ayon sa M2 Comms, nag-resurface 'to as TikTok meme around 2023.
 
 ## Halimbawa
 

@@ -17,7 +17,11 @@ Ginagamit pag naputol yung isang bagay sa gitna. Boss na umalis habang nagsasali
 
 ## Saan galing
 
-Nung 2024, paulit-ulit na naputol ni Claudine Barretto ang sarili niya habang nagte-thank you sa mga sponsor sa Instagram, kaya "Thank you so mu-" na lang ang naiwan. Kumalat 'to sa TikTok, Twitter, at Facebook.
+Nung 2024, paulit-ulit na naputol ni Claudine Barretto ang sarili niya habang nagte-thank you sa mga sponsor sa Instagram, kaya "Thank you so mu-" na lang ang naiwan.
+
+## Paano kumalat
+
+Kumalat 'to sa TikTok, Twitter, at Facebook.
 
 ## Halimbawa
 

@@ -22,7 +22,11 @@ Pag may kaibigang 'di nagre-reply tungkol sa utang, "hindi kita tatantanan." Pag
 
 ## Saan galing
 
-Galing kay Mike Enriquez ng GMA. Ayon sa PEP, nasabi niya 'to sa staff niya noong 2000 habang hawak niya yung kaso ng isang tinamaan ng ligaw na bala. "Hindi ko kayo tatantanan" pa yung original, tapos naging "hindi namin kayo tatantanan" at naging battle cry ng Imbestigador, na nagsimula rin noong August 2000.
+Galing kay Mike Enriquez ng GMA. Ayon sa PEP, nasabi niya 'to sa staff niya noong 2000 habang hawak niya yung kaso ng isang tinamaan ng ligaw na bala. "Hindi ko kayo tatantanan" pa yung original.
+
+## Paano kumalat
+
+Pagkatapos, naging "hindi namin kayo tatantanan" yung linya at ginawang battle cry ng Imbestigador, na nagsimula rin noong August 2000.
 
 ## Halimbawa
 

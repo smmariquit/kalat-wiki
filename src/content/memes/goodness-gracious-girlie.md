@@ -18,7 +18,11 @@ Pa-sosyal na gulat 'to, sa boses ni Girlie. Ginagamit pag may nakita kang shocki
 
 ## Saan galing
 
-Si Girlie ay karakter ni Vice Ganda sa 2013 na pelikulang Girl, Boy, Bakla, Tomboy. Ayon sa GMA, ginagamit ng netizens yung "Goodness gracious!" bilang background audio sa TikTok trends at video stickers. Nung April 18, 2026, bumalik pa si Vice sa It's Showtime bilang si Girlie.
+Si Girlie ay karakter ni Vice Ganda sa 2013 na pelikulang Girl, Boy, Bakla, Tomboy.
+
+## Paano kumalat
+
+Ayon sa GMA, ginagamit ng netizens yung "Goodness gracious!" bilang background audio sa TikTok trends at video stickers. Nung April 18, 2026, bumalik pa si Vice sa It's Showtime bilang si Girlie.
 
 ## Halimbawa
 

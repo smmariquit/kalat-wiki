@@ -19,7 +19,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Hindi pa verified kung kailan unang ginamit yung word. Lalo 'tong sumikat noong 2015 dahil sa pabebe wave ng AlDub sa Eat Bulaga.
+Hindi pa verified kung kailan unang ginamit yung word.
+
+## Paano kumalat
+
+Lalo 'tong sumikat noong 2015 dahil sa pabebe wave ng AlDub sa Eat Bulaga.
 
 ## Halimbawa
 

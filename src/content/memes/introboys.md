@@ -17,7 +17,11 @@ Pag ang team ay sobrang ganda ng early game tapos natalo pa rin, introboys sila.
 
 ## Saan galing
 
-Wordplay 'to sa pangalan ng OPM band na Introvoys. Galing sa trash talk sa DotA at Dota 2, kung saan madalas makabawi ang talong team sa late game. Lalo pang sumikat nung MLBB Southeast Asia Cup 2022 Grand Finals, kung saan nakabawi ang RSG Philippines laban sa RRQ Hoshi na lamang sa early game.
+Wordplay 'to sa pangalan ng OPM band na Introvoys. Galing sa trash talk sa DotA at Dota 2, kung saan madalas makabawi ang talong team sa late game.
+
+## Paano kumalat
+
+Lalo pang sumikat nung MLBB Southeast Asia Cup 2022 Grand Finals, kung saan nakabawi ang RSG Philippines laban sa RRQ Hoshi na lamang sa early game.
 
 ## Halimbawa
 

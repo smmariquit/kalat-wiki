@@ -17,7 +17,11 @@ Sinasabi 'to pag may nahuli kang nagpapanggap. Halimbawa, yung barkada mong mach
 
 ## Saan galing
 
-Galing 'to sa Sprite campaign na "Magpakatotoo Ka." Sa ad, nahuli ng mga macho niyang tropa yung isang lalaki na nanonood ng cheesy na chick flick. Ayon sa Spot.ph, sobrang tumatak ang campaign kaya nasundan pa ng ibang ads na ganun din ang tema.
+Galing 'to sa Sprite campaign na "Magpakatotoo Ka." Sa ad, nahuli ng mga macho niyang tropa yung isang lalaki na nanonood ng cheesy na chick flick.
+
+## Paano kumalat
+
+Ayon sa Spot.ph, sobrang tumatak ang campaign kaya nasundan pa ng ibang ads na ganun din ang tema.
 
 ## Halimbawa
 

@@ -20,7 +20,11 @@ Pag tinanong ka kung sure ka na, "final answer!" Ginagamit sa recitation, sa pag
 
 ## Saan galing
 
-Galing sa Who Wants to Be a Millionaire. Yung unang Pinoy version, hino-host ni Christopher de Leon sa IBC mula November 2000 hanggang 2002. Bago i-lock ang sagot, "final answer" ang sinasabi ng contestant. Ginawang title pa ng 2002 na pelikulang Mahal Kita, Final Answer.
+Galing sa Who Wants to Be a Millionaire. Yung unang Pinoy version, hino-host ni Christopher de Leon sa IBC mula November 2000 hanggang 2002. Bago i-lock ang sagot, "final answer" ang sinasabi ng contestant.
+
+## Paano kumalat
+
+Ginawang title pa 'to ng 2002 na pelikulang Mahal Kita, Final Answer.
 
 ## Halimbawa
 

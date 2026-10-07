@@ -18,7 +18,11 @@ Sayaw na naka-bend ang tuhod tapos inuurong-sulong ang balakang sa beat. Pag may
 
 ## Saan galing
 
-Galing 'to sa 2004 na novelty song ni Bayani Agbayani, ayon sa Interaksyon. Bumalik siya sa usapan nung September 2026, nung may Pinoy fan na nag-otso otso sa big screen habang naglalaro si Alex Eala sa US Open. Sabi pa ng ilang netizens, akala daw ng iba twerking.
+Galing 'to sa 2004 na novelty song ni Bayani Agbayani, ayon sa Interaksyon.
+
+## Paano kumalat
+
+Bumalik siya sa usapan nung September 2026, nung may Pinoy fan na nag-otso otso sa big screen habang naglalaro si Alex Eala sa US Open. Sabi pa ng ilang netizens, akala daw ng iba twerking.
 
 ## Halimbawa
 

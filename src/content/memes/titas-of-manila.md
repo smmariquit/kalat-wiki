@@ -22,7 +22,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Galing sa parody Twitter account na @TitasofManila, na ayon sa The GUIDON ay umabot ng halos 14,000 followers sa loob ng isang buwan. Noong October 2014, tinawag 'tong "perfect parody" ng Manila Times.
+Galing sa parody Twitter account na @TitasofManila. Noong October 2014, tinawag 'tong "perfect parody" ng Manila Times.
+
+## Paano kumalat
+
+Ayon sa The GUIDON, umabot ng halos 14,000 followers yung account sa loob ng isang buwan.
 
 ## Halimbawa
 

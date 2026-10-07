@@ -20,7 +20,11 @@ Ginagamit 'to pag may nagtanong sa'yo ng parang simple pero may catch pala, kaya
 
 ## Saan galing
 
-Sa Miss Universe 1994 na ginanap sa Manila, tinanong si Charlene Gonzalez kung ilan ang isla ng Pilipinas. Ang sagot niya, "High tide or low tide?" tapos sinabi niyang 7,107 pag high tide at 7,108 pag low tide, ayon sa SPOT.ph. Sabi ng PEP, mas sumikat pa 'to kaysa sa final answer ng nanalo, at ilang beses na-parody sa TV at pelikula.
+Sa Miss Universe 1994 na ginanap sa Manila, tinanong si Charlene Gonzalez kung ilan ang isla ng Pilipinas. Ang sagot niya, "High tide or low tide?" tapos sinabi niyang 7,107 pag high tide at 7,108 pag low tide, ayon sa SPOT.ph.
+
+## Paano kumalat
+
+Sabi ng PEP, mas sumikat pa 'to kaysa sa final answer ng nanalo, at ilang beses na-parody sa TV at pelikula.
 
 ## Halimbawa
 

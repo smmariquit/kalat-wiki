@@ -20,7 +20,11 @@ KKB means kanya-kanyang bayad, kanya-kanya kayo sa bill. Pinoy version ng "going
 
 ## Saan galing
 
-Ayon sa Rappler, pumasok 'to sa Oxford English Dictionary noong 2015, at yung earliest na record ng OED ay noong 1987. Nung July 2022, lumabas ulit 'to sa TikTok debate kung sino dapat magbayad sa first date, ayon sa PhilSTAR Life.
+Ayon sa Rappler, 1987 yung earliest na record ng Oxford English Dictionary para dito, at pumasok 'to sa OED noong 2015.
+
+## Paano kumalat
+
+Nung July 2022, lumabas ulit 'to sa TikTok debate kung sino dapat magbayad sa first date, ayon sa PhilSTAR Life.
 
 ## Halimbawa
 

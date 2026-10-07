@@ -19,7 +19,11 @@ Format 'to ng poster na may normal na bagay pero may Pinoy twist, tapos may capt
 
 ## Saan galing
 
-Launch ng Department of Tourism nung April 2012 para palitan yung "Wow Philippines" at "Pilipinas Kay Ganda." Number one siya sa Top 10 Pinoy Memes of 2012 ng SPOT.ph.
+Launch ng Department of Tourism nung April 2012 para palitan yung "Wow Philippines" at "Pilipinas Kay Ganda."
+
+## Paano kumalat
+
+Number one siya sa Top 10 Pinoy Memes of 2012 ng SPOT.ph.
 
 ## Halimbawa
 

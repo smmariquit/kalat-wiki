@@ -19,7 +19,11 @@ Pag sinabi mong "nabudol ako," ibig sabihin napabili ka ng bagay na 'di mo naman
 
 ## Saan galing
 
-Mas luma 'tong salita. Dati panloloko o pang-iscam ang ibig sabihin, kaya may "budol-budol gang" na tawag sa mga manloloko. Ayon sa Wiktionary, galing sa Hiligaynon na "budol-budol." Online, napunta na lang yung meaning sa pagpapabili na halos parang na-hypnotize ka.
+Mas luma 'tong salita. Dati panloloko o pang-iscam ang ibig sabihin, kaya may "budol-budol gang" na tawag sa mga manloloko. Ayon sa Wiktionary, galing sa Hiligaynon na "budol-budol."
+
+## Paano kumalat
+
+Online, napunta na lang yung meaning sa pagpapabili na halos parang na-hypnotize ka.
 
 ## Halimbawa
 

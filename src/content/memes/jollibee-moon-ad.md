@@ -17,7 +17,11 @@ Sa lumang commercial na 'to, may dalawang American astronaut na lumapag sa buwan
 
 ## Saan galing
 
-1980s pa yung ad. Noong July 2022, may nag-post nito sa r/memes ng Reddit katabi ng Apollo 11 moon landing, may caption na "Secretly won the space race, PH." Mahigit 33,000 upvotes ang nakuha at maraming foreigner ang na-curious sa Jollibee, ayon sa Interaksyon. Nung 2017, may bagong Yum Burger ad din ang Jollibee na nag-homage sa original.
+1980s na TV commercial 'to ng Jollibee, ayon sa Interaksyon.
+
+## Paano kumalat
+
+Nung 2017, may bagong Yum Burger ad ang Jollibee na nag-homage sa original. Noong July 2022, may nag-post nito sa r/memes ng Reddit katabi ng Apollo 11 moon landing, may caption na "Secretly won the space race, PH." Mahigit 33,000 upvotes ang nakuha at maraming foreigner ang na-curious sa Jollibee, ayon sa Interaksyon.
 
 ## Halimbawa
 

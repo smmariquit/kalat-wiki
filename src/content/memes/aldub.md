@@ -20,7 +20,11 @@ Pinagsamang Alden at Yaya Dub. Love team 'to na nagsimula sa split screen, kasi 
 
 ## Saan galing
 
-Galing sa Kalyeserye, parody ng soap opera sa "Juan for All, All for Juan" segment ng Eat Bulaga noong 2015. Si Maine Mendoza yung gumanap na Yaya Dub, at si Alden Richards yung kausap niya sa split screen. Noong September 26, 2015, umabot ng 25.6 million tweets yung #ALDubEBforLOVE sa isang araw.
+Galing sa Kalyeserye, parody ng soap opera sa "Juan for All, All for Juan" segment ng Eat Bulaga noong 2015. Si Maine Mendoza yung gumanap na Yaya Dub, at si Alden Richards yung kausap niya sa split screen.
+
+## Paano kumalat
+
+Noong September 26, 2015, umabot ng 25.6 million tweets yung #ALDubEBforLOVE sa isang araw.
 
 ## Halimbawa
 

@@ -18,7 +18,11 @@ Clip ng isang news anchor na may sinabing "Sa'yo ako, ha" bago mag-live report. 
 
 ## Saan galing
 
-Nung November 15, 2024 na episode ng TV Patrol, nag-report si Bernadette Sembrano mula sa isang donation warehouse. Ilang segundo bago siya mag-report, may sinabi siyang "Sa'yo ako, ha" sa isang tao sa likod ng camera, hindi alam na live na pala, ayon sa Interaksyon. Ni-post ng isang meme page yung clip at kumalat.
+Nung November 15, 2024 na episode ng TV Patrol, nag-report si Bernadette Sembrano mula sa isang donation warehouse. Ilang segundo bago siya mag-report, may sinabi siyang "Sa'yo ako, ha" sa isang tao sa likod ng camera, hindi alam na live na pala, ayon sa Interaksyon.
+
+## Paano kumalat
+
+Ni-post ng isang meme page yung clip, tapos dun na kumalat.
 
 ## Halimbawa
 

@@ -17,7 +17,11 @@ Reaction image 'to para sa kahit anong medyo nakakalito, dramatic, o nakakakilig
 
 ## Saan galing
 
-Nakuhanan si Alden Richards nung 2018 na naka-dila, naka-squint, at nakahawak sa noo. Simula nun 'di na binitawan ng internet, at bumalik pa ulit nung 2025.
+Nakuhanan si Alden Richards nung 2018 na naka-dila, naka-squint, at nakahawak sa noo.
+
+## Paano kumalat
+
+Simula nun 'di na 'to binitawan ng internet, at bumalik pa ulit nung 2025.
 
 ## Halimbawa
 

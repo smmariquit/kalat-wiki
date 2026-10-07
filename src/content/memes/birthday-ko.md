@@ -16,7 +16,11 @@ Reaction 'to pag lutang ka at 'di mo gets kung ikaw ba yung tinutukoy. Inosente 
 
 ## Saan galing
 
-Galing sa isang segment ng It's Showtime. Pinag-uusapan ni Vice Ganda yung mga OFW na nami-miss ang family events, tapos nung binanggit niya ang "birthday mo," naguluhan si Anne Curtis at sumagot ng "Birthday ko?" Nag-resurface yung clip sa TikTok at Facebook around late 2023, ayon sa M2 Comms.
+Galing sa isang segment ng It's Showtime. Pinag-uusapan ni Vice Ganda yung mga OFW na nami-miss ang family events, tapos nung binanggit niya ang "birthday mo," naguluhan si Anne Curtis at sumagot ng "Birthday ko?"
+
+## Paano kumalat
+
+Nag-resurface yung clip sa TikTok at Facebook around late 2023, ayon sa M2 Comms.
 
 ## Halimbawa
 

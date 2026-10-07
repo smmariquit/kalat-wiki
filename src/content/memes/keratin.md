@@ -16,7 +16,11 @@ Kinukuha mo yung isang random na salita sa usapan tapos inuulit mo nang sobrang 
 
 ## Saan galing
 
-Ayon sa M2 Comms, na-associate 'to kay Maja Salvador na nag-popularize sa vlogs niya, at may malaking ambag din ang isang content creator. Hindi pa verified kung saan talaga unang lumabas yung linya.
+Hindi pa verified kung saan talaga unang lumabas yung linya.
+
+## Paano kumalat
+
+Ayon sa M2 Comms, na-associate 'to kay Maja Salvador na nag-popularize sa vlogs niya. May malaking ambag din ang isang content creator.
 
 ## Halimbawa
 

@@ -21,7 +21,11 @@ Parang "jk" na sinasabi out loud. Ilalagay mo sa dulo pag nagbibiro ka, o pag to
 
 ## Saan galing
 
-Galing 'to sa swardspeak, yung gay lingo ng LGBTQ+ community sa Pinas. Ayon sa Wiktionary, blend daw 'to ng "charing" at "harot." Ngayon kahit sino na gumagamit, lalo na sa comments at GC.
+Galing 'to sa swardspeak, yung gay lingo ng LGBTQ+ community sa Pinas. Ayon sa Wiktionary, blend daw 'to ng "charing" at "harot."
+
+## Paano kumalat
+
+Ngayon kahit sino na gumagamit, lalo na sa comments at GC.
 
 ## Halimbawa
 

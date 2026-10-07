@@ -22,6 +22,8 @@ Madalas reaction meme 'to sa TikTok at comments.
 
 Galing sa "Kalokalike Face 2" segment ng It's Showtime, kung saan isang Taylor Lautner lookalike ang gumanap na Jacob Black. Yung buong monologue niya, kasama yung "Why you crying again?", wala naman talaga sa Twilight.
 
+## Paano kumalat
+
 Luma na yung clip pero nag-resurface nung 2025, tapos nag-recreate yung mga TikToker at celebs. Pati si Taylor Lautner nag-comment, ayon sa Cosmo.
 
 ## Halimbawa

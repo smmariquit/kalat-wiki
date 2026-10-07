@@ -20,7 +20,11 @@ Yung rampa ni Catriona Gray na may mabagal na ikot sa dulo. Pag may nag-ikot nan
 
 ## Saan galing
 
-Bago pa ang Miss Universe 2018, may lumabas nang preview ng walk sa Instagram story ng stylist at choreographer niya na may caption na "Glide, sway, pivot, erupt like a molten rock," ayon sa Philstar. Lava kasi, as in Mayon Volcano sa Albay, at Bicolana si Catriona. Nanalo siya ng Miss Universe 2018, tapos kahit si Tyra Banks nag-post pa ng #LavaWalk nung 2019, ayon sa Rappler.
+Bago pa ang Miss Universe 2018, may lumabas nang preview ng walk sa Instagram story ng stylist at choreographer niya na may caption na "Glide, sway, pivot, erupt like a molten rock," ayon sa Philstar. Lava kasi, as in Mayon Volcano sa Albay, at Bicolana si Catriona.
+
+## Paano kumalat
+
+Nanalo siya ng Miss Universe 2018, tapos kahit si Tyra Banks nag-post pa ng #LavaWalk nung 2019, ayon sa Rappler.
 
 ## Halimbawa
 

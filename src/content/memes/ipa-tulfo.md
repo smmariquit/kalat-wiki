@@ -19,7 +19,11 @@ Pag may nang-agrabyado sa'yo, landlord man, delivery, o kaibigang 'di nagbabayad
 
 ## Saan galing
 
-Galing kay Raffy Tulfo, broadcaster na kilala sa pag-ere ng reklamo ng mga ordinaryong tao. Ayon sa Rest of World, naging catchphrase yung "ipa-Tulfo mo 'yan" pag may unfair na nangyari, after niyang i-launch ang Wanted sa Radyo nung 2011. May segment din na "Ipa-Raffy Tulfo Mo" sa Aksyon sa Tanghali ng TV5, ayon sa Wikipedia.
+Galing kay Raffy Tulfo, broadcaster na kilala sa pag-ere ng reklamo ng mga ordinaryong tao.
+
+## Paano kumalat
+
+Ayon sa Rest of World, naging catchphrase yung "ipa-Tulfo mo 'yan" pag may unfair na nangyari, after niyang i-launch ang Wanted sa Radyo nung 2011. May segment din na "Ipa-Raffy Tulfo Mo" sa Aksyon sa Tanghali ng TV5, ayon sa Wikipedia.
 
 ## Halimbawa
 

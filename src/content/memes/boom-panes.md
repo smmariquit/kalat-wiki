@@ -17,7 +17,11 @@ Pang-finishing line 'to pag may na-roast ka o may nasabi kang matindi. Parang mi
 
 ## Saan galing
 
-Ayon sa SPIN.ph, pinasikat 'to ni Vice Ganda sa Showtime ng ABS-CBN. Yung "boom" daw ay pagsabog, tapos yung "panes" galing sa "panis." Ngayon, madalas na rin 'tong makita sa online trash talk ng basketball fans.
+Ayon sa SPIN.ph, pinasikat 'to ni Vice Ganda sa Showtime ng ABS-CBN. Yung "boom" daw ay pagsabog, tapos yung "panes" galing sa "panis."
+
+## Paano kumalat
+
+Ngayon, madalas na rin 'tong makita sa online trash talk ng basketball fans.
 
 ## Halimbawa
 

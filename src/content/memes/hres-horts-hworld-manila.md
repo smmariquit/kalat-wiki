@@ -17,7 +17,11 @@ Hindi 'to basta "Resorts World Manila." Kailangan pabulong, mahangin, at may "h"
 
 ## Saan galing
 
-Galing 'to sa TV ad ng Resorts World Manila na may ganung pagbigkas ng pangalan. Ayon sa Spot.ph, tumatak siya nang husto kaya halos 'di na masabi ng mga Pinoy ang pangalan nang hindi ginagaya yung breathy na version.
+Galing 'to sa TV ad ng Resorts World Manila na may ganung pagbigkas ng pangalan.
+
+## Paano kumalat
+
+Ayon sa Spot.ph, tumatak siya nang husto kaya halos 'di na masabi ng mga Pinoy ang pangalan nang hindi ginagaya yung breathy na version.
 
 ## Halimbawa
 

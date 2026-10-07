@@ -22,7 +22,11 @@ Pag may gumawa ng maganda o nakakatawa, sasabihin mo "bigyan ng jacket 'yan!" Pa
 
 ## Saan galing
 
-Galing kay Willie Revillame. Nung host siya ng Wowowee simula 2005, nagsimula siyang mamigay ng jacket sa contestants at audience, sabay sigaw ng linyang 'to. Dinala niya yung habit hanggang Wowowin, kaya ang dami nang memes tungkol dito. Pati si Michael V, ginaya 'to sa isang clip na nag-viral.
+Galing kay Willie Revillame. Nung host siya ng Wowowee simula 2005, nagsimula siyang mamigay ng jacket sa contestants at audience, sabay sigaw ng linyang 'to.
+
+## Paano kumalat
+
+Dinala niya yung habit hanggang Wowowin, kaya ang dami nang memes tungkol dito. Pati si Michael V, ginaya 'to sa isang clip na nag-viral.
 
 ## Halimbawa
 

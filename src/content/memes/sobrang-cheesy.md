@@ -18,7 +18,11 @@ Pag may couple na sobrang sweet o may linyang sobrang kilig, sasabihan mo ng "so
 
 ## Saan galing
 
-Tagline 'to ng Cheesy campaign ng Greenwich para sa Extreme Cheese Overload pizza noong 2009. Bida dito sina John Lloyd Cruz at Bea Alonzo. Ayon sa Philstar, kumalat yung linya sa kabataan, sa Facebook, at sa mga blog.
+Tagline 'to ng Cheesy campaign ng Greenwich para sa Extreme Cheese Overload pizza noong 2009. Bida dito sina John Lloyd Cruz at Bea Alonzo.
+
+## Paano kumalat
+
+Ayon sa Philstar, kumalat yung linya sa kabataan, sa Facebook, at sa mga blog.
 
 ## Halimbawa
 

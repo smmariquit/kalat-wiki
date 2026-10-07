@@ -22,7 +22,11 @@ Minsan seryoso, minsan pa-joke lang pag nag-selfie ka tapos may konting good dee
 
 ## Saan galing
 
-Sa Miss Universe 2015, sinabi ni Pia sa final Q&A na "confidently beautiful with a heart" siya. Pagkapanalo niya, ginamit na rin 'to ng ibang beauty queens sa reactions nila, ayon sa Philstar. Later on, ginamit pa ni Pia mismo yung phrase nung nagsalita siya sa harap ng mga congressman, ayon sa Inquirer.
+Sa Miss Universe 2015, sinabi ni Pia sa final Q&A na "confidently beautiful with a heart" siya.
+
+## Paano kumalat
+
+Pagkapanalo niya, ginamit na rin 'to ng ibang beauty queens sa reactions nila, ayon sa Philstar. Later on, ginamit pa ni Pia mismo yung phrase nung nagsalita siya sa harap ng mga congressman, ayon sa Inquirer.
 
 ## Halimbawa
 

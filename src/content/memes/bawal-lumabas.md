@@ -20,7 +20,11 @@ Sinasabi 'to pag may rules na hindi mo maintindihan, o pag lockdown vibes ulit. 
 
 ## Saan galing
 
-Nung May 2020, nagsalita si Kim Chiu sa isang "Laban Kapamilya" stream at sinabi niya ang "Sa classroom may batas, bawal lumabas, oh bawal lumabas," ayon sa Rappler. Ginawan 'to ng memes at dance remix, kasama yung beat ni DJ Squammy. After nun, ni-release ni Kim mismo yung "Bawal Lumabas (The Classroom Song)," ayon sa Philstar.
+Nung May 2020, nagsalita si Kim Chiu sa isang "Laban Kapamilya" stream at sinabi niya ang "Sa classroom may batas, bawal lumabas, oh bawal lumabas," ayon sa Rappler.
+
+## Paano kumalat
+
+Ginawan 'to ng memes at dance remix, kasama yung beat ni DJ Squammy. After nun, ni-release ni Kim mismo yung "Bawal Lumabas (The Classroom Song)," ayon sa Philstar.
 
 ## Halimbawa
 

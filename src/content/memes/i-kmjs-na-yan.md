@@ -19,7 +19,11 @@ Pag may nakita kang sobrang kakaiba, gulay na hugis puso o manok na may tatlong 
 
 ## Saan galing
 
-Catchphrase 'to ng Kapuso Mo, Jessica Soho, ayon sa Interaksyon. Nung 2018, nag-viral din ang isang meme na puno ng mga linya ni Jessica sa show, ayon sa GMA.
+Catchphrase 'to ng Kapuso Mo, Jessica Soho, ayon sa Interaksyon.
+
+## Paano kumalat
+
+Nung 2018, nag-viral ang isang meme na puno ng mga linya ni Jessica sa show, ayon sa GMA. Nung 2025, pinagsama pa ng KMJS page ang "I-KMJS na 'yan!" at "Handa na ba kayo?!" ni Korina Sanchez nung nagkita sila sa Vatican, ayon sa Interaksyon.
 
 ## Halimbawa
 

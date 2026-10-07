@@ -17,7 +17,7 @@ Synonym 'to ng "bongga." Sinasabi pag impressive, fabulous, or pasabog ang isang
 
 ## Saan galing
 
-Ayon sa GMA News, madalas 'tong gamitin ng content creator na si Mimiyuuuh. Kasama 'to sa listahan nila ng words na ginamit ng mga Pinoy noong 2022.
+Ayon sa GMA News, madalas 'tong gamitin ng content creator na si Mimiyuuuh. Kasama 'to sa listahan ng GMA ng words na ginamit ng mga Pinoy noong 2022.
 
 ## Halimbawa
 

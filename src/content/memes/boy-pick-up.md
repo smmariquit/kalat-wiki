@@ -22,7 +22,11 @@ Tawag sa taong sobrang daming pick-up lines, lalo yung corny pero tama ang timin
 
 ## Saan galing
 
-Galing sa "Pick-Up Lines" battle sketch ng Bubble Gang na umere mula 2011. Si Ogie Alcasid si Boy Pick-Up, yung champion na 'di natatalo. Ayon kay Michael V, dapat short-lived lang 'to, pero sumikat kaya nagkaroon pa ng pelikula noong 2012.
+Galing sa "Pick-Up Lines" battle sketch ng Bubble Gang na umere mula 2011. Si Ogie Alcasid si Boy Pick-Up, yung champion na 'di natatalo.
+
+## Paano kumalat
+
+Ayon kay Michael V, dapat short-lived lang 'to, pero sumikat kaya nagkaroon pa ng pelikula noong 2012.
 
 ## Halimbawa
 

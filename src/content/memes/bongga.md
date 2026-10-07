@@ -21,7 +21,11 @@ Pag bongga, sobrang ganda o sobrang engrande. Pwede sa party, outfit, handa, o p
 
 ## Saan galing
 
-Hindi pa sure yung etymology. Ayon sa Plaridel paper, malamang pinasikat 'to ng kanta ng Hotdog noong 1970s at ng pelikula ni Nora Aunor noong 1980s na parehong "Bongga Ka Day" ang title, tapos binuhay ulit ng mga baklang personalidad sa TV at pelikula.
+Hindi pa sure yung etymology. Ayon sa Plaridel paper, malamang pinasikat 'to ng kanta ng Hotdog noong 1970s at ng pelikula ni Nora Aunor noong 1980s na parehong "Bongga Ka Day" ang title.
+
+## Paano kumalat
+
+Binuhay ulit 'to ng mga baklang personalidad sa TV at pelikula, ayon din sa Plaridel paper.
 
 ## Halimbawa
 

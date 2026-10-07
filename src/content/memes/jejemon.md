@@ -20,7 +20,11 @@ Jejemon yung tawag sa mga nagta-type ng parang "HeLL0w p0wH, mUsTa nA u?" Random
 
 ## Saan galing
 
-Galing 'to sa SMS era, nung 160 characters lang ang isang text kaya kung anu-anong shortcut ang naimbento. Yung "jeje" ay "hehe" na tawa, tapos "mon" galing sa Pokémon. Sumikat yung word around April 2010 sa mga Filipino Tumblr at message boards. Umabot pa sa balita, pati DepEd nag-discourage nito sa mga estudyante noong 2010.
+Galing 'to sa SMS era, nung 160 characters lang ang isang text kaya kung anu-anong shortcut ang naimbento. Yung "jeje" ay "hehe" na tawa, tapos "mon" galing sa Pokémon.
+
+## Paano kumalat
+
+Sumikat yung word around April 2010 sa mga Filipino Tumblr at message boards. Umabot pa sa balita, pati DepEd nag-discourage nito sa mga estudyante noong 2010.
 
 ## Halimbawa
 

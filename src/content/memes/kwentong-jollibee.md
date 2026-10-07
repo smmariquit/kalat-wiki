@@ -22,7 +22,11 @@ Series 'to ng mahahabang ads ng Jollibee na parang short film. Kwento ng pag-ibi
 
 ## Saan galing
 
-Nagsimula ang Kwentong Jollibee noong 2016, gawa ng McCann Philippines. Pinaka-sumabog yung Valentine trilogy noong 2017 na "Vow," "Date," at "Crush," na umabot ng milyon-milyong views at pinag-react-an pa ng foreign YouTubers. Dami ring memes at jokes na lumabas tungkol sa mga twist.
+Nagsimula ang Kwentong Jollibee noong 2016, gawa ng McCann Philippines.
+
+## Paano kumalat
+
+Pinaka-sumabog yung Valentine trilogy noong 2017 na "Vow," "Date," at "Crush," na umabot ng milyon-milyong views at pinag-react-an pa ng foreign YouTubers. Dami ring memes at jokes na lumabas tungkol sa mga twist.
 
 ## Halimbawa
 

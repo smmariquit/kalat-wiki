@@ -19,7 +19,11 @@ Baliktad na "mayor." Dati street slang lang, pero ngayon pag sinabi mong Yorme, 
 
 ## Saan galing
 
-Sumikat 'to nung naging mayor ng Manila si Isko Moreno. Ayon sa ABS-CBN, parte 'to ng street slang na ginagamit niya para maka-connect sa mga Manileño. Pati sa mga balita, "Yorme Isko" na ang tawag sa kanya, gaya sa Philstar.
+Sumikat 'to nung naging mayor ng Manila si Isko Moreno. Ayon sa ABS-CBN, parte 'to ng street slang na ginagamit niya para maka-connect sa mga Manileño.
+
+## Paano kumalat
+
+Pati sa mga balita, "Yorme Isko" na ang tawag sa kanya, gaya sa Philstar.
 
 ## Halimbawa
 

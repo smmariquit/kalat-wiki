@@ -22,7 +22,11 @@ Yung image ni Daniela na naka-pulang gown, may dalang maleta, at naglalakad na p
 
 ## Saan galing
 
-Galing sa Kadenang Ginto, afternoon drama ng ABS-CBN. Si Dimples Romana ang gumanap na Daniela Mondragon. Yung still ay galing sa isang eksena kung saan nawala lahat kay Daniela at naglakad siya sa kalye na naka-gown at may dalang maleta. Nag-viral yung memes nung July 2019, ayon sa SunStar. Later, ginawa pang ambassador ng Department of Tourism si Dimples, ayon sa Wikipedia.
+Galing sa Kadenang Ginto, afternoon drama ng ABS-CBN. Si Dimples Romana ang gumanap na Daniela Mondragon. Yung still ay galing sa isang eksena kung saan nawala lahat kay Daniela at naglakad siya sa kalye na naka-gown at may dalang maleta.
+
+## Paano kumalat
+
+Nag-viral yung memes nung July 2019, ayon sa SunStar. Later, ginawa pang ambassador ng Department of Tourism si Dimples, ayon sa Wikipedia.
 
 ## Halimbawa
 

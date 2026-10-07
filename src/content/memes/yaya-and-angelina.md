@@ -22,7 +22,11 @@ Yung L na hand sign para sa "Loser" at W para sa "Whatever," pinasikat 'to ng sk
 
 ## Saan galing
 
-Galing sa "Ang Spoiled," sketch ng Bubble Gang na umere mula 2008 hanggang 2009. Si Ogie Alcasid si Angelina, yung spoiled na bata, at si Michael V yung yaya niya. May hand sign sila para sa "Loser," "Yaya," at "Whatever," at nagkaroon pa ng pelikula noong 2009.
+Galing sa "Ang Spoiled," sketch ng Bubble Gang na umere mula 2008 hanggang 2009. Si Ogie Alcasid si Angelina, yung spoiled na bata, at si Michael V yung yaya niya. May hand sign sila para sa "Loser," "Yaya," at "Whatever."
+
+## Paano kumalat
+
+Nagkaroon pa 'to ng pelikula noong 2009.
 
 ## Halimbawa
 

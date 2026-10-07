@@ -21,7 +21,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Noong 2010, naglabas ng ads sa mga diyaryo ang Fuji Xerox para pakiusapan ang publiko na wag gamitin ang "Xerox" bilang "copy," ayon sa isang Philstar column. Nag-trending ulit 'to noong 2019 nang mag-warning ulit ang Xerox Corp., ayon sa Interaksyon.
+Noong 2010, naglabas ng ads sa mga diyaryo ang Fuji Xerox para pakiusapan ang publiko na wag gamitin ang "Xerox" bilang "copy," ayon sa isang Philstar column.
+
+## Paano kumalat
+
+Nag-trending ulit 'to noong 2019 nang mag-warning ulit ang Xerox Corp., ayon sa Interaksyon.
 
 ## Halimbawa
 

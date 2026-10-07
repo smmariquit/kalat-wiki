@@ -21,7 +21,11 @@ May isang may nakadikit na salita sa noo na 'di niya nakikita, tapos tanong siya
 
 ## Saan galing
 
-Galing sa Eat Bulaga, kung saan matagal na 'tong segment. Ayon sa Wikipedia, dito rin hinango yung mas bagong Gimme 5 game. Ayon kay Shalala, sila ni Kuya Germs ang unang naglaro nito sa show. Hanggang ngayon nag-viral pa rin ang mga episode, tulad nung naglaro si David Licauco noong 2023 at 'di niya maalala ang Tagalog ng cow.
+Galing sa Eat Bulaga, kung saan matagal na 'tong segment. Ayon sa Wikipedia, dito rin hinango yung mas bagong Gimme 5 game. Ayon kay Shalala, sila ni Kuya Germs ang unang naglaro nito sa show.
+
+## Paano kumalat
+
+Hanggang ngayon nag-viral pa rin ang mga episode, tulad nung naglaro si David Licauco noong 2023 at 'di niya maalala ang Tagalog ng cow.
 
 ## Halimbawa
 

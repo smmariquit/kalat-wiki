@@ -16,7 +16,11 @@ Sinasabi pag kuntento ka na kahit hindi perfect. Haircut na medyo sablay, rushed
 
 ## Saan galing
 
-Ayon sa SPOT.ph, napansin ng mga tao na laging sinasabi ng isang TikTok home cook ang "okay na 'to" sa dulo ng cooking videos niya. Mula dun, kumalat na siya sa kahit anong sitwasyon.
+Ayon sa SPOT.ph, napansin ng mga tao na laging sinasabi ng isang TikTok home cook ang "okay na 'to" sa dulo ng cooking videos niya.
+
+## Paano kumalat
+
+Mula dun, kumalat na siya sa kahit anong sitwasyon, ayon sa SPOT.ph.
 
 ## Halimbawa
 

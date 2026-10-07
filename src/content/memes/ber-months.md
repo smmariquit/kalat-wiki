@@ -21,7 +21,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Kasi lahat ng apat na buwan nagtatapos sa "-ber," kaya ganun ang tawag. Ayon sa CNBC, ganito talaga tinatawag ng Pinoy ang Christmas season. Noong 2018 nag-compile na ang Interaksyon ng Jose Mari Chan memes pag-start ng ber months, at sa 2023 nagpasalamat pa si Jose Mari Chan sa mga gumagawa nito.
+Kasi lahat ng apat na buwan nagtatapos sa "-ber," kaya ganun ang tawag. Ayon sa CNBC, ganito talaga tinatawag ng Pinoy ang Christmas season.
+
+## Paano kumalat
+
+Noong 2018 nag-compile na ang Interaksyon ng Jose Mari Chan memes pag-start ng ber months, at sa 2023 nagpasalamat pa si Jose Mari Chan sa mga gumagawa nito.
 
 ## Halimbawa
 

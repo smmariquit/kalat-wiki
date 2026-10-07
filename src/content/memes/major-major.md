@@ -19,6 +19,10 @@ Ginagamit pag gusto mong sabihin na malaki o seryoso yung isang bagay, pero pa-j
 
 Tinanong si Venus Raj sa Miss Universe 2010 tungkol sa pinakamalaking pagkakamali niya sa buhay. Sagot niya, "You know what, sir? In my 22 years of existence, I can say there is nothing major, major, I mean, problem that I have done in my life."
 
+## Paano kumalat
+
+Ayon sa Positively Filipino, kumalat yung linya sa social media at naging paboritong meme sa Facebook at Twitter.
+
 ## Halimbawa
 
 > walang major major problem, puyat lang

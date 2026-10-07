@@ -18,7 +18,11 @@ Two-panel na comic. Sa una, tinatanong ng nanay kung saan pupunta yung anak, tap
 
 ## Saan galing
 
-Ayon sa Khaosod English, galing yung format sa "Without Reservations" comic ni Ricardo Cate, tapos niremix ng mga Pinoy noong 2019. Isang Pinoy artist ang gumawa ng 3D version na pinakakumalat. Umabot pa 'to sa Thailand noong December 2019.
+Ayon sa Khaosod English, galing yung format sa "Without Reservations" comic ni Ricardo Cate.
+
+## Paano kumalat
+
+Niremix 'to ng mga Pinoy noong 2019, at isang Pinoy artist ang gumawa ng 3D version na pinakakumalat. Umabot pa 'to sa Thailand noong December 2019.
 
 ## Halimbawa
 

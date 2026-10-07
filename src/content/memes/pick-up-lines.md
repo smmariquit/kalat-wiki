@@ -17,7 +17,11 @@ Format ng corny na banat na may tanong, sagot na "bakit?", tapos punchline. Mas 
 
 ## Saan galing
 
-Hindi pa verified kung kailan nagsimula yung pick-up line craze sa Pinas. Ang malinaw, sumikat lalo yung "Pick-Up Lines Battle" sketch ng Bubble Gang kung saan si Ogie Alcasid si Boy Pick-Up, na naging pelikula noong 2012.
+Hindi pa verified kung kailan nagsimula yung pick-up line craze sa Pinas.
+
+## Paano kumalat
+
+Sumikat lalo yung "Pick-Up Lines Battle" sketch ng Bubble Gang kung saan si Ogie Alcasid si Boy Pick-Up, na naging pelikula noong 2012.
 
 ## Halimbawa
 

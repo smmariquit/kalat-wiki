@@ -17,7 +17,7 @@ Ang estetik ay "aesthetic" na binaybay kung paano binibigkas ng Pinoy. Pang-desc
 
 ## Saan galing
 
-Ayon sa GMA News, pinasikat 'to ng isang TikTok user at kasama sa listahan nila ng words na sikat noong 2022.
+Ayon sa GMA News, pinasikat 'to ng isang TikTok user. Kasama 'to sa listahan ng GMA ng words na sikat noong 2022.
 
 ## Halimbawa
 

@@ -18,7 +18,11 @@ Bagong upload na video o post, tapos may magco-comment ng "first!" Yun lang tala
 
 ## Saan galing
 
-Ayon sa Know Your Meme, galing 'to sa tech site na Slashdot noong 1997, kung saan "first post" ang comment ng mga unang nakakita. Kumalat siya sa YouTube at iba pang sites, at dinala rin ng mga Pinoy sa comments ng FB pages.
+Ayon sa Know Your Meme, galing 'to sa tech site na Slashdot noong 1997, kung saan "first post" ang comment ng mga unang nakakita.
+
+## Paano kumalat
+
+Kumalat siya sa YouTube at iba pang sites, at dinala rin ng mga Pinoy sa comments ng FB pages.
 
 ## Halimbawa
 

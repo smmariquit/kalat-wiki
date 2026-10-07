@@ -19,7 +19,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Luma na 'to. Nasa listahan ng Spot.ph ng 70s slang yung "repapips," galing din sa pare. Bumalik ulit sa feeds noong reverse slang era, kaya nasa 2018 list din ng Gulf News.
+Luma na 'to. Nasa listahan ng Spot.ph ng 70s slang yung "repapips," galing din sa pare.
+
+## Paano kumalat
+
+Bumalik ulit sa feeds noong reverse slang era, kaya nasa 2018 list din ng Gulf News.
 
 ## Halimbawa
 

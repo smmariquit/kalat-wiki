@@ -17,7 +17,11 @@ Pang-congratulate 'to sa taong nag-level up sa love, career, o buhay. Minsan ser
 
 ## Saan galing
 
-Galing sa isang video ng isang personality na nagbigay ng maikling speech tungkol sa pag-imagine ng success, kasama yung linyang "Makikita mo sa imagine mo, bigla kang sumakses eh." Nag-viral 'to around December 2024 at tumuloy hanggang 2025.
+Galing sa isang video ng isang personality na nagbigay ng maikling speech tungkol sa pag-imagine ng success, kasama yung linyang "Makikita mo sa imagine mo, bigla kang sumakses eh."
+
+## Paano kumalat
+
+Nag-viral 'to around December 2024 at tumuloy hanggang 2025.
 
 ## Halimbawa
 

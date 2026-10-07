@@ -19,7 +19,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Galing sa brand na Kodak, na naging generic na salita para sa camera at sa pagkuha ng picture. Ayon sa A Way with Words, street lingo 'to sa Pinas na "more often used as a whimsical statement" ngayon.
+Galing sa brand na Kodak, na naging generic na salita para sa camera at sa pagkuha ng picture.
+
+## Paano kumalat
+
+Ayon sa A Way with Words, street lingo 'to sa Pinas na "more often used as a whimsical statement" ngayon.
 
 ## Halimbawa
 

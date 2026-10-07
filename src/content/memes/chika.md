@@ -23,7 +23,11 @@ Ibig sabihin chismis o kwentuhan. "Ano chika?" means anong balita. Pag chika lan
 
 ## Saan galing
 
-Galing sa Spanish na "chica" ayon sa Wiktionary. Sabi ng Plaridel paper, palasak na ang chika bilang gay language kaya naging part na ng araw-araw na usapan.
+Galing sa Spanish na "chica" ayon sa Wiktionary.
+
+## Paano kumalat
+
+Sabi ng Plaridel paper, palasak na ang chika bilang gay language kaya naging part na ng araw-araw na usapan.
 
 ## Halimbawa
 

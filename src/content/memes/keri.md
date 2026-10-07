@@ -21,7 +21,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Galing sa English na "carry." Ayon sa Plaridel paper, sumikat ang keri dahil sa paggamit ni Vice Ganda sa mga pelikula niya. Sa isang Daily Tribune column naman, "carry" daw as in kaya mong i-carry yung suot mo.
+Galing sa English na "carry." Sa isang Daily Tribune column, "carry" daw as in kaya mong i-carry yung suot mo.
+
+## Paano kumalat
+
+Ayon sa Plaridel paper, sumikat ang keri dahil sa paggamit ni Vice Ganda sa mga pelikula niya.
 
 ## Halimbawa
 

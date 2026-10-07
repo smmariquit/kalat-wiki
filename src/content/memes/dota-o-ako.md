@@ -20,7 +20,11 @@ Duet 'to nina Aikee at Vanessa kung saan nagrereklamo yung girlfriend na mas mah
 
 ## Saan galing
 
-Inspired 'to sa DotA-Allstars, yung Warcraft III mod na sikat sa mga Pinoy comshop. Lumabas ang kanta noong 2010, ayon sa GameIndustry.ph. Pagdating ng 2021, 24 million views na daw yung original, ayon sa GMA. Noong 2021, naglabas ang Netflix Philippines ng sequel na "Dota at Ako" para sa series na Dota: Dragon's Blood.
+Inspired 'to sa DotA-Allstars, yung Warcraft III mod na sikat sa mga Pinoy comshop. Lumabas ang kanta noong 2010, ayon sa GameIndustry.ph.
+
+## Paano kumalat
+
+Pagdating ng 2021, 24 million views na daw yung original, ayon sa GMA. Noong 2021 din, naglabas ang Netflix Philippines ng sequel na "Dota at Ako" para sa series na Dota: Dragon's Blood.
 
 ## Halimbawa
 

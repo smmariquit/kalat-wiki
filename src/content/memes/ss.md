@@ -17,7 +17,11 @@ Sa Pinoy gamers, "SS" ang ultimate skill ng hero sa DotA, Mobile Legends, LoL, a
 
 ## Saan galing
 
-Galing 'to sa Gunbound, yung turn-based na shooting game na sikat sa PH noong around 2005. Doon, "Special Shot" yung limited pero malakas na tira. Nung sumikat ang DotA, dinala ng mga player yung SS para sa ulti kasi mas mabilis i-type. Yung "special skill" at "super skill" ay mga hula na lang ng mga 'di nakaabot sa Gunbound.
+Galing 'to sa Gunbound, yung turn-based na shooting game na sikat sa PH noong around 2005. Doon, "Special Shot" yung limited pero malakas na tira. Yung "special skill" at "super skill" ay mga hula na lang ng mga 'di nakaabot sa Gunbound.
+
+## Paano kumalat
+
+Nung sumikat ang DotA, dinala ng mga player yung SS para sa ulti kasi mas mabilis i-type.
 
 ## Halimbawa
 

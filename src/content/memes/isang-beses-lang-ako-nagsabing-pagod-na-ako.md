@@ -20,7 +20,11 @@ Hugot 'to pag ikaw lagi yung nag-a-adjust tapos isang beses ka lang nagreklamo. 
 
 ## Saan galing
 
-Galing sa 2018 na pelikulang The Hows of Us, sa away ng karakter ni Kathryn Bernardo at Daniel Padilla sa ulan. Sabi ni George, "Halos pitong taon ng buhay ko, binigay ko sa'yo Primo. At sa pitong taon na iyon, isang beses lang ako nagsabing pagod na ako," ayon sa Rappler. Ayon sa Interaksyon, ginawang reaction images, memes, at TikTok yung mga eksenang 'to.
+Galing sa 2018 na pelikulang The Hows of Us, sa away ng karakter ni Kathryn Bernardo at Daniel Padilla sa ulan. Sabi ni George, "Halos pitong taon ng buhay ko, binigay ko sa'yo Primo. At sa pitong taon na iyon, isang beses lang ako nagsabing pagod na ako," ayon sa Rappler.
+
+## Paano kumalat
+
+Ayon sa Interaksyon, ginawang reaction images, memes, at TikTok yung mga eksenang 'to.
 
 ## Halimbawa
 

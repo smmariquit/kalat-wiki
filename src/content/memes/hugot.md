@@ -17,7 +17,11 @@ Literal na "hugot" as in pull out. Yung feelings mo hinugot mo tapos ginawa mong
 
 ## Saan galing
 
-Sumikat 'to mid-2010s, kasabay ng paglaki ng Facebook, Twitter at Instagram sa Pinas. Madalas i-credit yung 2014 na pelikulang That Thing Called Tadhana ni Antoinette Jadaone sa pag-mainstream ng hugot sa sine.
+Galing sa salitang hugot, as in pull out. Mid-2010s 'to unang sumikat bilang slang, ayon sa Wikipedia.
+
+## Paano kumalat
+
+Kumalat 'to sa Facebook, Twitter at Instagram, kasabay ng paglaki ng social media sa Pinas. Madalas i-credit yung 2014 na pelikulang That Thing Called Tadhana ni Antoinette Jadaone sa pag-mainstream ng hugot sa sine. Umabot na rin 'to sa TV, merch at ads.
 
 ## Halimbawa
 

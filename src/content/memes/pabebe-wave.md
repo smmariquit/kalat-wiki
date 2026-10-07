@@ -20,6 +20,10 @@ Kaway na parang beauty queen pero mas pa-cute. Medyo naka-curve yung kamay, diki
 
 Galing 'to sa Eat Bulaga noong July 16, 2015. Bumati si Alden Richards, tapos sumagot si Maine Mendoza bilang Yaya Dub ng maliit na pa-cute na kaway. Mula noon, pabebe wave na tawag dun.
 
+## Paano kumalat
+
+Ayon sa Wikipedia, ginaya 'to bilang pang-greet ng mga local celebrity, politicians, at pati staff ng US embassy sa Pilipinas. Sumali rin sina Vin Diesel at Lifehouse, at na-feature pa sa BBC News at The Guardian. Ginawa pa ng show na National Pabebe Wave Day ang September 26, 2015.
+
 ## Halimbawa
 
 > *pabebe wave* hello mga ka-dabarkads

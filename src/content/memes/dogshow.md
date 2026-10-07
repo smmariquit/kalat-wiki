@@ -19,7 +19,11 @@ Pag sinabing dogshow, pinagtitripan or inaasar yung isang tao or sitwasyon. Ligh
 
 ## Saan galing
 
-Ayon sa GMA News, pinasikat 'to ng content creator na si Sassa Gurl simula 2021. Hindi pa verified kung saan talaga unang lumabas yung salita.
+Hindi pa verified kung saan talaga unang lumabas yung salita.
+
+## Paano kumalat
+
+Ayon sa GMA News, pinasikat 'to ng content creator na si Sassa Gurl simula 2021.
 
 ## Halimbawa
 

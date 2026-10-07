@@ -19,7 +19,11 @@ Pag naubo ka sa gitna ng meeting o video call, may magsasabi ng "excuse me po!" 
 
 ## Saan galing
 
-Galing kay Mike Enriquez ng GMA. Sinasabi niya 'to tuwing naubo o nag-clear ng throat on air. Ayon sa kanya, tinuro lang sa kanya nung bata na mag-excuse me pag naubo, hindi raw gimmick. Nung January 2020, may clip pa siya na nag-"excuse me po" tapos sinabing hindi raw coronavirus yun, at kumalat yun online.
+Galing kay Mike Enriquez ng GMA. Sinasabi niya 'to tuwing naubo o nag-clear ng throat on air. Ayon sa kanya, tinuro lang sa kanya nung bata na mag-excuse me pag naubo, hindi raw gimmick.
+
+## Paano kumalat
+
+Nung January 2020, may clip pa siya na nag-"excuse me po" tapos sinabing hindi raw coronavirus yun, at kumalat yun online.
 
 ## Halimbawa
 

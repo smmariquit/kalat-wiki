@@ -17,7 +17,11 @@ Conyo yung Taglish na English ang base tapos may Tagalog na sinisingit. Signatur
 
 ## Saan galing
 
-Galing daw 'to sa mga kabataan ng mayayamang pamilya sa Manila, ayon sa Wikipedia. Madalas 'tong ginagaya online para mang-asar, kaya parang meme na rin yung conyo accent.
+Galing daw 'to sa mga kabataan ng mayayamang pamilya sa Manila, ayon sa Wikipedia.
+
+## Paano kumalat
+
+Madalas 'tong ginagaya online para mang-asar, kaya parang meme na rin yung conyo accent.
 
 ## Halimbawa
 

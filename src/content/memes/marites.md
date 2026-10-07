@@ -19,7 +19,11 @@ Si Marites yung kapitbahay or kakilala na laging may balita tungkol sa buhay ng 
 
 ## Saan galing
 
-Galing daw 'to sa linyang "Mare, ano ang latest?" na pinaikli at naging pangalan. Common din kasi na pangalan ng babae ang Marites kaya mabilis kumapit. Sumikat 'to online noong early 2020s, during pandemic, pag mas madalas nasa FB at TikTok ang lahat.
+Galing daw 'to sa linyang "Mare, ano ang latest?" na pinaikli at naging pangalan. Common din kasi na pangalan ng babae ang Marites kaya mabilis kumapit.
+
+## Paano kumalat
+
+Sumikat 'to online noong early 2020s, during pandemic, pag mas madalas nasa FB, TikTok at X ang lahat. Dun din naging common yung "Manahimik ka, Marites" para sa mga nakikisawsaw sa buhay ng iba.
 
 ## Halimbawa
 

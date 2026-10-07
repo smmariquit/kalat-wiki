@@ -21,7 +21,11 @@ Pag kinabog ka, nalamangan ka, madalas sa flashy na paraan. Pag unkabogable, wal
 
 ## Saan galing
 
-Originally LGBTQ slang ayon sa Wiktionary. Pinasikat ni Vice Ganda ang "unkabogable," na half-English na version ng "unbeatable," at nasa top buzzwords ng 2011 ng GMA News. May pelikula pa siyang "The Unkabogable Praybeyt Benjamin."
+Originally LGBTQ slang ayon sa Wiktionary.
+
+## Paano kumalat
+
+Pinasikat ni Vice Ganda ang "unkabogable," na half-English na version ng "unbeatable," at nasa top buzzwords ng 2011 ng GMA News. May pelikula pa siyang "The Unkabogable Praybeyt Benjamin."
 
 ## Halimbawa
 

@@ -22,6 +22,8 @@ Ginagamit pag iniwan ka, ni-ghost, o kinansela nang walang paliwanag. Pwede rin 
 
 Galing sa Starting Over Again (2014) ng Star Cinema. Sinabi 'to ng character ni Piolo Pascual sa character ni Toni Gonzaga.
 
+## Paano kumalat
+
 Nung 2026, may congressman na nag-quote nito sa isang House hearing pero si Popoy ng One More Chance daw ang nagsabi. Tinama siya ng isa pang congressman na kay Piolo 'to galing, kaya bumalik na naman sa usapan yung linya.
 
 ## Halimbawa

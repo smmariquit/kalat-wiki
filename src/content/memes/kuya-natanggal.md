@@ -17,7 +17,11 @@ Nire-recreate ng mga tao yung eksena na super soft at pa-baby ang boses mo haban
 
 ## Saan galing
 
-Galing sa isang video kung saan isang pasahero ng motorcycle taxi ang mahinang nagsabi, pagkatapos ng ride, na natanggal na pala yung shield ng helmet niya. Yung naguguluhang "hA?" ng rider ang nagpa-viral. Pati sina Anne Curtis at Jericho Rosales nag-recreate.
+Galing sa isang video kung saan isang pasahero ng motorcycle taxi ang mahinang nagsabi, pagkatapos ng ride, na natanggal na pala yung shield ng helmet niya. Yung naguguluhang "hA?" ng rider ang nagpa-viral.
+
+## Paano kumalat
+
+Pati sina Anne Curtis at Jericho Rosales nag-recreate.
 
 ## Halimbawa
 

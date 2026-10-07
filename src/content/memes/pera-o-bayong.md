@@ -21,7 +21,11 @@ Pag may dalawang choice ka at pareho may risk, "pera o bayong?" Kunin mo na yung
 
 ## Saan galing
 
-Game segment 'to na nagsimula sa Magandang Tanghali Bayan ng ABS-CBN noong 1998. Sumikat 'to nang sobra kaya na-extend pa ang show hanggang Sabado. Lumipat ito sa Wowowee, at bumalik pa noong 2022 sa PIE kasama si Amy Perez.
+Game segment 'to na nagsimula sa Magandang Tanghali Bayan ng ABS-CBN noong 1998.
+
+## Paano kumalat
+
+Sumikat 'to nang sobra kaya na-extend pa ang show hanggang Sabado. Lumipat 'to sa Wowowee, at bumalik pa noong 2022 sa PIE kasama si Amy Perez.
 
 ## Halimbawa
 

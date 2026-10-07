@@ -20,7 +20,11 @@ Kalmadong pang-shade sa taong ang daming hanash o pinapakialaman ang buhay ng ib
 
 ## Saan galing
 
-Galing sa Starting Over Again (2014). Sinabi ni Patty (Iza Calzado) kay Ginny (Toni Gonzaga) ang "Ang lungkot-lungkot siguro talaga ng buhay mo." Nung 2022, ni-post ulit ng isang sinehan yung eksena, at binasa 'to ng netizens bilang shade, kaya nag-trend ulit.
+Galing sa Starting Over Again (2014). Sinabi ni Patty (Iza Calzado) kay Ginny (Toni Gonzaga) ang "Ang lungkot-lungkot siguro talaga ng buhay mo."
+
+## Paano kumalat
+
+Nung 2022, ni-post ulit ng isang sinehan yung eksena, at binasa 'to ng netizens bilang shade, kaya nag-trend ulit.
 
 ## Halimbawa
 

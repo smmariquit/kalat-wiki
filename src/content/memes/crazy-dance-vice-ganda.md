@@ -17,7 +17,11 @@ Dance trend 'to na walang kailangang perfect na choreo. Basta playful at confide
 
 ## Saan galing
 
-Isang TikTok user ang nag-pares ng lumang clip ni Vice Ganda sa Tawag ng Tanghalan segment ng It's Showtime sa kanta ng LE SSERAFIM na "Crazy." Lumaki siya to the point na nagka-National Crazy Day nung April 28, 2025, at pati LE SSERAFIM nag-post ng sariling version.
+Isang TikTok user ang nag-pares ng lumang clip ni Vice Ganda sa Tawag ng Tanghalan segment ng It's Showtime sa kanta ng LE SSERAFIM na "Crazy."
+
+## Paano kumalat
+
+Lumaki siya to the point na nagka-National Crazy Day nung April 28, 2025, at pati LE SSERAFIM nag-post ng sariling version.
 
 ## Halimbawa
 

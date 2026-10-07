@@ -19,7 +19,11 @@ Ginagamit 'to pa-joke pag may nagbanta sa'yo nang maliit lang, tapos gusto mong 
 
 ## Saan galing
 
-Galing kay Senator Miriam Defensor-Santiago. Ayon sa Philstar, sinagot niya ng "I eat death threats for breakfast!" yung tanong ng isang journalist tungkol sa death threats na natatanggap ng opisina niya. Nung pumanaw siya nung 2016, binanggit pa 'to sa mga pag-alala sa kanya, ayon sa GMA.
+Galing kay Senator Miriam Defensor-Santiago. Ayon sa Philstar, sinagot niya ng "I eat death threats for breakfast!" yung tanong ng isang journalist tungkol sa death threats na natatanggap ng opisina niya.
+
+## Paano kumalat
+
+Nung pumanaw siya nung 2016, binanggit pa 'to sa mga pag-alala sa kanya, ayon sa GMA.
 
 ## Halimbawa
 

@@ -20,7 +20,11 @@ Sinasabi mo 'to pag simula pa lang ng gulo pero ramdam mong may ilalabas pang ma
 
 ## Saan galing
 
-Galing sa The Broken Marriage Vow ng ABS-CBN noong 2022. Sa isang confrontation scene, si Jill, na ginampanan ni Jodi Sta. Maria, ang nagsabi nito habang sinasabi sa mga magulang ni Lexy ang affair nito sa asawa niya. Lalo pa 'tong kumalat nung may content creator na gumawa ng remix at nag-impersonate ng eksena.
+Galing sa The Broken Marriage Vow ng ABS-CBN noong 2022. Sa isang confrontation scene, si Jill, na ginampanan ni Jodi Sta. Maria, ang nagsabi nito habang sinasabi sa mga magulang ni Lexy ang affair nito sa asawa niya.
+
+## Paano kumalat
+
+Lalo pa 'tong kumalat nung may content creator na gumawa ng remix at nag-impersonate ng eksena.
 
 ## Halimbawa
 

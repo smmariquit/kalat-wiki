@@ -21,7 +21,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Part 'to ng reverse slang wave na pumutok noong 2017 kasama ng werpa at petmalu, ayon sa PEP. Hindi naman bago yung style. Sabi ni Joey de Leon, puro baliktad na rin ang salita nila noong panahon ng Iskul Bukol.
+Reverse slang 'to, ayon sa PEP. Hindi naman bago yung style. Sabi ni Joey de Leon, puro baliktad na rin ang salita nila noong panahon ng Iskul Bukol.
+
+## Paano kumalat
+
+Pumutok 'to noong 2017 kasama ng werpa at petmalu, bilang part ng reverse slang wave.
 
 ## Halimbawa
 

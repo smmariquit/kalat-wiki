@@ -19,7 +19,11 @@ Ginagamit pag feeling mo ikaw lagi ang sinisisi kahit 'di mo naman kasalanan. Gr
 
 ## Saan galing
 
-Galing sa confrontation scene ng magkakapatid sa Four Sisters and a Wedding (2013), kung saan sinabi 'to ng character ni Bea Alonzo na si Bobbie. Ayon sa M2 Comms, sumabog siya as a meme around 2017.
+Galing sa confrontation scene ng magkakapatid sa Four Sisters and a Wedding (2013), kung saan sinabi 'to ng character ni Bea Alonzo na si Bobbie.
+
+## Paano kumalat
+
+Ayon sa M2 Comms, sumabog siya as a meme around 2017.
 
 ## Halimbawa
 

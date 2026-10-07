@@ -16,7 +16,11 @@ Street techno beats na may magulong drum loops at random na sound effects, tapos
 
 ## Saan galing
 
-Galing sa Davao City at pinasikat ni DJ Love, ayon sa M2 Comms. Ginamit din ng mga brand sa ads nung sumikat sa TikTok.
+Galing sa Davao City at pinasikat ni DJ Love, ayon sa M2 Comms.
+
+## Paano kumalat
+
+Ginamit din 'to ng mga brand sa ads nung sumikat sa TikTok.
 
 ## Halimbawa
 

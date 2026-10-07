@@ -22,7 +22,11 @@ Pang-tawag sa boss, sa supervisor, o sa kaibigang umaasta na parang may-ari ng k
 
 ## Saan galing
 
-Galing sa Be Careful With My Heart, morning teleserye ng ABS-CBN na nagsimula noong July 2012. Si Jodi Sta. Maria si Maya, probinsyanang naging yaya, at Ser Chief ang tawag niya sa amo niyang si Richard Lim, na ginampanan ni Richard Yap. Sumikat din 'to sa ibang bansa tulad ng Malaysia.
+Galing sa Be Careful With My Heart, morning teleserye ng ABS-CBN na nagsimula noong July 2012. Si Jodi Sta. Maria si Maya, probinsyanang naging yaya, at Ser Chief ang tawag niya sa amo niyang si Richard Lim, na ginampanan ni Richard Yap.
+
+## Paano kumalat
+
+Sumikat din 'to sa ibang bansa tulad ng Malaysia.
 
 ## Halimbawa
 

@@ -16,7 +16,11 @@ Reaction 'to pag may sinabi o ginawa kang medyo creepy. Yung ngiti mismo ang pun
 
 ## Saan galing
 
-Nagsimula sa mga clip ni Gerry Alanguilan, aka Komikero, na nakangiti sa camera niya. Ayon sa SPOT.ph, umabot pa 'to sa Indonesia, at gumawa pa siya ng video na nagtuturo kung paano gawin yung smile.
+Nagsimula sa mga clip ni Gerry Alanguilan, aka Komikero, na nakangiti sa camera niya.
+
+## Paano kumalat
+
+Ayon sa SPOT.ph, umabot pa 'to sa Indonesia. Gumawa pa siya ng video na nagtuturo kung paano gawin yung smile.
 
 ## Halimbawa
 

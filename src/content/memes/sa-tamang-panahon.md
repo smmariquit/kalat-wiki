@@ -20,7 +20,11 @@ Sagot 'to pag may nagtanong kung kailan ka magkaka-jowa, magkaka-work, o makaka-
 
 ## Saan galing
 
-Galing sa Kalyeserye ng Eat Bulaga. Matagal pinaghintay sina Alden Richards at Yaya Dub bago sila nagkita nang personal, at si Lola Nidora, na ginampanan ni Wally Bayola, ang nag-announce na tamang panahon na. Ginawa pa 'tong event sa Philippine Arena noong October 24, 2015, at halos 40.7 million tweets ang #AlDubEBTamangPanahon.
+Galing sa Kalyeserye ng Eat Bulaga. Matagal pinaghintay sina Alden Richards at Yaya Dub bago sila nagkita nang personal, at si Lola Nidora, na ginampanan ni Wally Bayola, ang nag-announce na tamang panahon na.
+
+## Paano kumalat
+
+Ginawa pa 'tong event sa Philippine Arena noong October 24, 2015, at halos 40.7 million tweets ang #AlDubEBTamangPanahon.
 
 ## Halimbawa
 

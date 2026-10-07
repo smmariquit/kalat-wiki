@@ -18,7 +18,11 @@ updated: 2026-10-08
 
 ## Saan galing
 
-Galing 'to sa Dota 2 community noong 2013. Yung mga foreign caster ng BeyondTheSummit, binibigkas ang "pinoy" na parang "pee-noy." Nung dumami ang Pinoy players sa SEA servers at nabansagang toxic, ginawang insulto ng iba yung mispronunciation, tapos naging "peenoise" sa plural.
+Galing 'to sa Dota 2 community noong 2013. Yung mga foreign caster ng BeyondTheSummit, binibigkas ang "pinoy" na parang "pee-noy."
+
+## Paano kumalat
+
+Nung dumami ang Pinoy players sa SEA servers at nabansagang toxic, ginawang insulto ng iba yung mispronunciation, tapos naging "peenoise" sa plural.
 
 ## Halimbawa
 

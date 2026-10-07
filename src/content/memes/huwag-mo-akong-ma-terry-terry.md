@@ -20,7 +20,11 @@ Ginagamit 'to pag ayaw mong maloko o mabalewala. Madalas 'to pang-sagot sa utang
 
 ## Saan galing
 
-Galing sa Minsan Lang Kita Iibigin (1994) ni Chito S. Roño, sinulat ni Ricky Lee. Si Maricel Soriano si Terry, isang simpleng misis na nalaman na may affair pala ang asawa niya. Nung 2020, nilabas ng ABS-CBN yung restored trailer ng pelikula, kaya napag-usapan ulit yung linya.
+Galing sa Minsan Lang Kita Iibigin (1994) ni Chito S. Roño, sinulat ni Ricky Lee. Si Maricel Soriano si Terry, isang simpleng misis na nalaman na may affair pala ang asawa niya.
+
+## Paano kumalat
+
+Nung 2020, nilabas ng ABS-CBN yung restored trailer ng pelikula, kaya napag-usapan ulit yung linya.
 
 ## Halimbawa
 

@@ -19,7 +19,11 @@ Ayuda yung cash o relief na binibigay ng gobyerno, lalo na noong lockdown. Onlin
 
 ## Saan galing
 
-Matagal na 'tong salita. Pero noong 2020, kasama 'to sa top 5 na salitang inuugnay ng mga Pinoy sa pandemic, ayon sa #LexiCOVID ng UP Linguistics. Doon talaga sumikat nang husto.
+Matagal na 'tong salita.
+
+## Paano kumalat
+
+Noong 2020, kasama 'to sa top 5 na salitang inuugnay ng mga Pinoy sa pandemic, ayon sa #LexiCOVID ng UP Linguistics. Doon talaga sumikat nang husto.
 
 ## Halimbawa
 

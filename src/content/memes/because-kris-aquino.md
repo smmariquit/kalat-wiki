@@ -20,7 +20,11 @@ Screenshot ni Kris Aquino na parang naghihintay ng paliwanag, may nakasulat na "
 
 ## Saan galing
 
-Galing sa isang January 2014 episode ng Kris TV, kung saan ini-interview niya si Kim Chiu, ayon sa Interaksyon. Nung February 2021, kumalat ulit yung clip at naging meme template. Sinakyan pa ni Kris mismo, gumawa siya ng Q&A gamit ang "because," ayon sa GMA.
+Galing sa isang January 2014 episode ng Kris TV, kung saan ini-interview niya si Kim Chiu, ayon sa Interaksyon.
+
+## Paano kumalat
+
+Nung February 2021, kumalat ulit yung clip at naging meme template. Sinakyan pa ni Kris mismo, gumawa siya ng Q&A gamit ang "because," ayon sa GMA.
 
 ## Halimbawa
 

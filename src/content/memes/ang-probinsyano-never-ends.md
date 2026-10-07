@@ -22,7 +22,11 @@ Joke 'to na sobrang tagal ng Ang Probinsyano na parang wala na itong katapusan. 
 
 ## Saan galing
 
-Nagsimula ang show nung 2015. Ayon sa SPOT.ph, may fan na nag-edit kay Cardo na matanda na, may announcement na matatapos na daw ang show in two weeks, pero sa 2048. Pinost pa 'to ni Coco Martin sa sarili niyang Instagram nung 2018.
+Nagsimula ang show nung 2015. Ayon sa SPOT.ph, may fan na nag-edit kay Cardo na matanda na, may announcement na matatapos na daw ang show in two weeks, pero sa 2048.
+
+## Paano kumalat
+
+Pinost pa 'to ni Coco Martin sa sarili niyang Instagram nung 2018, ayon din sa SPOT.ph.
 
 ## Halimbawa
 

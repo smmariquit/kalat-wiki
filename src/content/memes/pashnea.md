@@ -22,7 +22,11 @@ Pang-mura 'to pero galing sa fantasy, kaya pwede mong sabihin nang 'di masyadong
 
 ## Saan galing
 
-Galing sa Enchanta, yung gawa-gawang language ng Encantadia ng GMA na unang umere noong 2005. Si Suzette Doctolero ang gumawa ng show at ng language. Ayon sa kanya, ang "pashnea" ay hayop, ang "sheda" ay tigil, at ang "ashti" ay tita. Bumalik pa 'to nung 2016 remake.
+Galing sa Enchanta, yung gawa-gawang language ng Encantadia ng GMA na unang umere noong 2005. Si Suzette Doctolero ang gumawa ng show at ng language. Ayon sa kanya, ang "pashnea" ay hayop, ang "sheda" ay tigil, at ang "ashti" ay tita.
+
+## Paano kumalat
+
+Bumalik pa 'to nung 2016 remake ng Encantadia.
 
 ## Halimbawa
 

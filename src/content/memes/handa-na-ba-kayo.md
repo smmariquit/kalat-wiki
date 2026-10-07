@@ -17,7 +17,11 @@ Pang-intro 'to bago ka mag-reveal ng chika o surprise. Parang drumroll pero may 
 
 ## Saan galing
 
-Tagline 'to ni Korina Sanchez sa news magazine show niyang Rated K, ayon sa Interaksyon. Nung 2025, pinagsama pa ng KMJS page ang "Handa na ba kayo?!" at "I-KMJS na 'yan!" nung nagkita sina Korina at Jessica Soho sa Vatican.
+Tagline 'to ni Korina Sanchez sa news magazine show niyang Rated K, ayon sa Interaksyon.
+
+## Paano kumalat
+
+Nung 2025, pinagsama pa ng KMJS page ang "Handa na ba kayo?!" at "I-KMJS na 'yan!" nung nagkita sina Korina at Jessica Soho sa Vatican.
 
 ## Halimbawa
 

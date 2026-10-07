@@ -17,7 +17,11 @@ Pag sumayaw ka nang awkward pero buong confidence, "pasok ka sa Kianna Dy School
 
 ## Saan galing
 
-Si Kianna Dy, volleyball player, nagpo-post ng sayaw niya sa TikTok. Nagustuhan ng followers yung off-beat pero confident na galaw niya, tapos naging meme na "school" na may enrollment.
+Si Kianna Dy, volleyball player, nagpo-post ng sayaw niya sa TikTok.
+
+## Paano kumalat
+
+Nagustuhan ng followers yung off-beat pero confident na galaw niya, tapos naging meme na "school" na may enrollment.
 
 ## Halimbawa
 

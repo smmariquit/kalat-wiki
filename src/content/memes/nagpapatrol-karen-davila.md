@@ -20,6 +20,10 @@ Ginagamit 'to pag nagkamali ka ng pangalan, lalo na pag sarili mong pangalan ang
 
 Sa February 11, 2026 na TV Patrol, ipapakilala sana ni Karen Davila yung field report ni Karen De Guzman. Ang nasabi niya, "Nagpapatrol, Karen Davila," tapos inayos niya agad, ayon sa PhilSTAR Life. Sa closing segment, inasar siya nina Zen Hernandez at Alvin Elchico. Pagtanong ng pangalan niya, sagot niya "Ako po si... Karen De Guzman."
 
+## Paano kumalat
+
+Ayon sa PhilSTAR Life, pinagtawanan 'to sa social media, pati ng reporter na si Jeff Canoy sa X. Nag-post din si Karen De Guzman sa X ng reel ng iba pang beses na ipinakilala siya ni Davila.
+
 ## Halimbawa
 
 > nagpapatrol, ako. este, si boss pala

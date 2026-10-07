@@ -24,7 +24,11 @@ Yung "forda" ay "for the," tapos yung "ferson" ay "person." Ginagamit 'to pang-d
 
 ## Saan galing
 
-Ayon sa PhilSTAR Life, sumikat 'to dahil sa isang TikTok video na in-post noong June 11, 2022, kung saan "mga ferson" ang tawag ng creator sa followers niya. Umabot daw ng 21 million views yung video. Kasama rin 'to sa listahan ng GMA News ng words na sikat noong 2022.
+Ayon sa PhilSTAR Life, sumikat 'to dahil sa isang TikTok video na in-post noong June 11, 2022, kung saan "mga ferson" ang tawag ng creator sa followers niya.
+
+## Paano kumalat
+
+Umabot daw ng 21 million views yung video. Kasama rin 'to sa listahan ng GMA News ng words na sikat noong 2022.
 
 ## Halimbawa
 

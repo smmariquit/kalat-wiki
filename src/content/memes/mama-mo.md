@@ -17,7 +17,11 @@ Pabirong sagot 'to pag may nang-asar sa'yo. Same energy ng "your mom" joke sa En
 
 ## Saan galing
 
-Sabi ng TheSmartLocal, matagal na 'to pero napag-usapan ulit dahil kay Snoop, yung character ni Anthony Jennings sa teleseryeng Can't Buy Me Love. Hindi pa verified kung saan talaga galing.
+Sabi ng TheSmartLocal, matagal na 'to. Hindi pa verified kung saan talaga galing.
+
+## Paano kumalat
+
+Napag-usapan ulit 'to dahil kay Snoop, yung character ni Anthony Jennings sa teleseryeng Can't Buy Me Love, ayon sa TheSmartLocal.
 
 ## Halimbawa
 

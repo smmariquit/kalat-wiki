@@ -17,7 +17,11 @@ Kanta 'to ni Sanya Lopez na una pang-joke lang ng mga tao, tapos maya-maya kinak
 
 ## Saan galing
 
-Nilabas ni Sanya Lopez yung single nung 2022. Bumalik siya nung 2025, umakyat sa Viral Songs chart ng Spotify Philippines, at pati Netflix Philippines nag-reference sa post nila ng Pulang Araw.
+Nilabas ni Sanya Lopez yung single nung 2022.
+
+## Paano kumalat
+
+Bumalik siya nung 2025 at umakyat sa Viral Songs chart ng Spotify Philippines. Pati Netflix Philippines nag-reference sa post nila ng Pulang Araw.
 
 ## Halimbawa
 

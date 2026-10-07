@@ -18,7 +18,11 @@ Photo ni Kris Aquino na naka-engrandeng gown habang nakalubog sa pool. Ginagamit
 
 ## Saan galing
 
-Nung 2017, lumipat si Kris Aquino sa digital at maraming linya sa webisodes niya ang ginawang memes, ayon sa GMA. Yung photo niyang naka-gown habang nasa pool, sobrang kumalat at ginawan pa ng mas maraming memes.
+Galing sa photo ni Kris Aquino na naka-gown habang nasa pool, nung 2017 na lumipat siya sa digital, ayon sa GMA.
+
+## Paano kumalat
+
+Sobrang kumalat yung photo at ginawan pa ng mas maraming memes. Ganun din ang nangyari sa maraming linya sa webisodes niya nung taon na 'yon.
 
 ## Halimbawa
 

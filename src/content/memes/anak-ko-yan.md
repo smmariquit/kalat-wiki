@@ -20,7 +20,11 @@ Sinisigaw 'to pag may umaangkin ng bagay na sa'yo talaga. Pwedeng pagkain, pet, 
 
 ## Saan galing
 
-Galing sa isang eksena ni Miles Ocampo sa FPJ's Batang Quiapo nung February 2023, kung saan pinipigilan ng karakter niya na may kumuha sa baby niya. Nag-trend siya sa Pilipinas at worldwide pagka-ere, ayon sa ABS-CBN. Sabi ng Interaksyon, pinuri ng ibang artista yung eksena at naging linya na 'to na ginagaya online.
+Galing sa isang eksena ni Miles Ocampo sa FPJ's Batang Quiapo nung February 2023, kung saan pinipigilan ng karakter niya na may kumuha sa baby niya.
+
+## Paano kumalat
+
+Nag-trend siya sa Pilipinas at worldwide pagka-ere, ayon sa ABS-CBN. Sabi ng Interaksyon, pinuri ng ibang artista yung eksena at naging linya na 'to na ginagaya online.
 
 ## Halimbawa
 
