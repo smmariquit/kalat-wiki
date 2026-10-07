@@ -16,7 +16,7 @@ async function check(url) {
   const opts = {
     redirect: 'follow',
     signal: AbortSignal.timeout(30000),
-    headers: { 'User-Agent': 'Mozilla/5.0 (kalat.wiki link check)' },
+    headers: { 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36' },
   };
   try {
     let res = await fetch(url, { ...opts, method: 'HEAD' });
