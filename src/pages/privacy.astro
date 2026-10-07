@@ -1,0 +1,48 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Privacy" description="Anong data ang kinokolekta ng Kalat at paano ito ginagamit.">
+  <div class="prose">
+    <h1>Privacy</h1>
+    <p class="muted">Updated 2026-10-08</p>
+
+    <h2>Pag nagbabasa ka lang</h2>
+    <p>
+      Walang account, walang login, walang tracking cookies sa Kalat. Yung hosting namin (Vercel)
+      nagre-record ng basic server logs like IP address at browser, para sa security at para gumana
+      ang site. Hindi namin ito binebenta o ginagamit para i-profile ka.
+    </p>
+
+    <h2>Pag nag-submit ka</h2>
+    <p>
+      Yung laman ng submit form (pangalan ng meme, details, links, at contact kung binigay mo) ay
+      napupunta sa private repository na editors lang ang nakakakita. Ginagamit lang namin yung contact
+      mo para tanungin ka tungkol sa submission mo. Hindi ito ipapakita sa site.
+    </p>
+    <p>
+      Pwede mong ipabura ang submission mo anytime. Mag-send ka lang ng
+      <a href="/submit/?type=remove">removal request</a> at sabihin mo kung alin.
+    </p>
+
+    <h2>Mga tao sa entries</h2>
+    <p>
+      Hindi namin pinapangalanan ang ordinary people na nag-viral, at hindi rin ang kahit sinong
+      menor de edad nung nangyari ang meme. Kung ikaw ay nasa isang entry at gusto mong ipatanggal o
+      ipa-correct, gamitin mo ang <a href="/submit/?type=remove">removal form</a>. Inuuna namin ang
+      mga request tungkol sa personal info.
+    </p>
+
+    <h2>Ads</h2>
+    <p>
+      Kung maglagay kami ng ads sa future, pwedeng gumamit ng cookies ang ad provider (like Google)
+      para pumili ng ads. I-a-update namin ang page na 'to at hihingi kami ng consent kung kailangan
+      bago mangyari yun.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      Para sa privacy questions, gamitin ang <a href="/contact/">contact page</a>.
+    </p>
+  </div>
+</Base>

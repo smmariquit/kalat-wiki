@@ -9,6 +9,8 @@ export const GET: APIRoute = async ({ site }) => {
     '/a-z/',
     '/about/',
     '/submit/',
+    '/contact/',
+    '/privacy/',
     ...KINDS.map((k) => `/kind/${k}/`),
     ...tagCounts(entries).map(([t]) => `/tag/${t}/`),
     ...entries.map((e) => `/m/${e.id}/`),

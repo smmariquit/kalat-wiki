@@ -1,0 +1,51 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Contact" description="Paano kontakin ang mga editor ng Kalat.">
+  <div class="prose">
+    <h1>Contact</h1>
+    <p>
+      Lahat ng message dumadaan sa iisang form para hindi mawala. Piliin mo lang kung anong klase.
+    </p>
+    <ul class="ways">
+      <li>
+        <a href="/submit/?type=new">May bagong meme</a>
+        <span class="muted">I-suggest ang wala pa dito.</span>
+      </li>
+      <li>
+        <a href="/submit/?type=fix">May mali sa entry</a>
+        <span class="muted">Sabihin kung anong entry at ano dapat.</span>
+      </li>
+      <li>
+        <a href="/submit/?type=remove">Ipatanggal o privacy concern</a>
+        <span class="muted">Inuuna namin ang mga request tungkol sa personal info.</span>
+      </li>
+    </ul>
+    <p>
+      Kung code o bug sa site, pwede ka ring mag-open ng issue sa
+      <a href="https://github.com/smmariquit/kalat-wiki/issues">GitHub</a>.
+    </p>
+  </div>
+</Base>
+
+<style>
+  .ways {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-lg) 0;
+    display: grid;
+    gap: var(--space-md);
+  }
+  .ways li {
+    display: grid;
+    gap: var(--space-2xs);
+    padding: var(--space-md);
+    border: 2px solid var(--color-ink);
+  }
+  .ways a {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: var(--text-lg);
+  }
+</style>
