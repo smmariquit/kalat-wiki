@@ -4,11 +4,13 @@ import type { Entry } from '../lib/entries';
 
 interface Props {
   entries: Entry[];
+  // Rail: swipeable single row on phones, normal grid on wider screens.
+  rail?: boolean;
 }
-const { entries } = Astro.props;
+const { entries, rail = false } = Astro.props;
 ---
 
-<ul class="grid">
+<ul class:list={['grid', { rail }]}>
   {entries.map((e) => <EntryCard entry={e} />)}
 </ul>
 
@@ -20,5 +22,22 @@ const { entries } = Astro.props;
     list-style: none;
     margin: 0 0 var(--space-xl);
     padding: 0;
+  }
+  @media (max-width: 40rem) {
+    .rail {
+      grid-template-columns: none;
+      grid-auto-flow: column;
+      grid-auto-columns: 78%;
+      overflow-x: auto;
+      overscroll-behavior-x: contain;
+      scroll-snap-type: x mandatory;
+      /* bleed to the screen edge so the next card peeks in */
+      margin-inline: calc(var(--page-gutter) * -1);
+      padding: var(--space-2xs) var(--page-gutter) var(--space-sm);
+      scroll-padding-inline: var(--page-gutter);
+    }
+    .rail > :global(li) {
+      scroll-snap-align: start;
+    }
   }
 </style>

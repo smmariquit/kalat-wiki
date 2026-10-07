@@ -80,6 +80,12 @@ blockquote p {
   margin: 0;
 }
 
+blockquote p + p {
+  margin-top: var(--space-xs);
+  padding-top: var(--space-xs);
+  border-top: var(--rule-hair);
+}
+
 .wrap {
   width: 100%;
   max-width: var(--page-max);

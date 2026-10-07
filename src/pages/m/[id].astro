@@ -19,7 +19,8 @@ const fixLink = `/submit/?type=fix&name=${encodeURIComponent(title)}`;
 <Base title={title} description={summary}>
   <article class="entry">
     <p class="kicker">
-      <a href={`/kind/${kind}/`}>{KIND_LABEL[kind]}</a>{originYear && <> · {originYear}</>}
+      <a href={`/kind/${kind}/`}>{KIND_LABEL[kind]}</a>
+      {originYear && <span>{originYear}</span>}
     </p>
     <h1>{title}</h1>
     <p class="summary">{summary}</p>
@@ -49,8 +50,9 @@ const fixLink = `/submit/?type=fix&name=${encodeURIComponent(title)}`;
           {tags.map((t) => <li><a href={`/tag/${t}/`}>{t}</a></li>)}
         </ul>
       )}
-      <p class="muted">
-        Updated {updated.toISOString().slice(0, 10)} · <a href={fixLink}>May mali? I-report</a>
+      <p class="muted row">
+        <span>Updated {updated.toISOString().slice(0, 10)}</span>
+        <a href={fixLink}>May mali? I-report</a>
       </p>
     </footer>
   </article>
@@ -66,6 +68,12 @@ const fixLink = `/submit/?type=fix&name=${encodeURIComponent(title)}`;
 <style>
   .entry {
     max-width: var(--measure);
+  }
+  .kicker,
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2xs) var(--space-md);
   }
   .kicker {
     font-size: var(--text-sm);

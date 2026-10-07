@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import Logo from '../components/Logo.astro';
 
 interface Props {
   title?: string;
@@ -33,7 +34,7 @@ const letters = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'];
     <a class="skip" href="#main">Skip to content</a>
     <header class="slab">
       <div class="wrap slab-inner">
-        <a href="/" class="mark" aria-label="Kalat home">KALAT<span>.wiki</span></a>
+        <a href="/" class="mark" aria-label="Kalat home"><Logo /><span class="word">kalat<span>.wiki</span></span></a>
         <nav aria-label="Main">
           <ul>
             <li><a href="/a-z/">A–Z</a></li>
@@ -54,13 +55,14 @@ const letters = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'];
           {letters.map((l) => <a href={`/a-z/#${l}`}>{l}</a>)}
         </nav>
         <p>
-          Lahat ng entry dito dumaan sa editor bago i-publish. May mali o gusto mong ipatanggal?
+          Lahat ng entry dito dumaan sa editor bago i-publish. May mali o gusto mong ipatanggal?{' '}
           <a href="/submit/?type=remove">Sabihin mo sa amin</a>.
         </p>
-        <p class="muted">
-          <a href="/about/">About at rules</a> · <a href="/submit/">Mag-submit ng meme</a> ·
-          <a href="/a-z/">Lahat ng entry</a>
-        </p>
+        <ul class="links">
+          <li><a href="/about/">About at rules</a></li>
+          <li><a href="/submit/">Mag-submit ng meme</a></li>
+          <li><a href="/a-z/">Lahat ng entry</a></li>
+        </ul>
       </div>
     </footer>
   </body>
@@ -93,19 +95,19 @@ const letters = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'];
     flex-wrap: wrap;
   }
   .mark {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
     font-family: var(--font-display);
     font-weight: 800;
     font-size: var(--text-xl);
-    letter-spacing: 0.02em;
     color: var(--color-ink);
     text-decoration: none;
     white-space: nowrap;
-    /* riso misregistration: one blue plate slightly off */
-    text-shadow: 2px 1px 0 var(--color-riso-blue);
+    letter-spacing: -0.01em;
   }
-  .mark span {
+  .word span {
     color: var(--color-accent-text);
-    text-shadow: none;
   }
   nav ul {
     display: flex;
@@ -149,5 +151,16 @@ const letters = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'];
   }
   .letters a:hover {
     color: var(--color-accent-text);
+  }
+  .foot a {
+    white-space: nowrap;
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs) var(--space-lg);
+    list-style: none;
+    margin: 0;
+    padding: 0;
   }
 </style>

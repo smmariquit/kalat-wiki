@@ -25,7 +25,7 @@ const letters = [...groups.keys()].sort((a, b) => (a === '#' ? 1 : b === '#' ? -
         {groups.get(l)!.map((e) => (
           <li>
             <a href={`/m/${e.id}/`}>{e.data.title}</a>
-            <span class="muted"> · {KIND_LABEL[e.data.kind]}</span>
+            <span class="kind">{KIND_LABEL[e.data.kind]}</span>
           </li>
         ))}
       </ul>
@@ -76,6 +76,13 @@ const letters = [...groups.keys()].sort((a, b) => (a === '#' ? 1 : b === '#' ? -
   }
   .group li a {
     font-weight: 600;
+  }
+  .kind {
+    margin-left: var(--space-xs);
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-ink-2);
   }
   @media (max-width: 30rem) {
     .group {

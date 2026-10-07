@@ -6,12 +6,12 @@ import { allEntries, dailyPick, tagCounts, KIND_LABEL } from '../lib/entries';
 import { KINDS } from '../content.config';
 
 const entries = await allEntries();
-const picks = dailyPick(entries, 6);
+const picks = dailyPick(entries, 8);
 const byYear = entries
   .filter((e) => e.data.originYear)
   .sort((a, b) => b.data.originYear! - a.data.originYear!);
-const newest = byYear.slice(0, 6);
-const oldSchool = byYear.slice(-6).reverse();
+const newest = byYear.slice(0, 4);
+const oldSchool = byYear.slice(-4).reverse();
 const tags = tagCounts(entries).slice(0, 24);
 const kindCount = (k: string) => entries.filter((e) => e.data.kind === k).length;
 ---
@@ -31,7 +31,7 @@ const kindCount = (k: string) => entries.filter((e) => e.data.kind === k).length
       <h2 id="picks">Pick ng araw</h2>
       <a href="/a-z/">Lahat ng entry →</a>
     </div>
-    <CardGrid entries={picks} />
+    <CardGrid entries={picks} rail />
   </section>
 
   {newest.length > 0 && (
@@ -39,7 +39,7 @@ const kindCount = (k: string) => entries.filter((e) => e.data.kind === k).length
       <div class="rail-head">
         <h2 id="new">Bago-bago lang</h2>
       </div>
-      <CardGrid entries={newest} />
+      <CardGrid entries={newest} rail />
     </section>
   )}
 
@@ -48,7 +48,7 @@ const kindCount = (k: string) => entries.filter((e) => e.data.kind === k).length
       <div class="rail-head">
         <h2 id="old">Old school</h2>
       </div>
-      <CardGrid entries={oldSchool} />
+      <CardGrid entries={oldSchool} rail />
     </section>
   )}
 
